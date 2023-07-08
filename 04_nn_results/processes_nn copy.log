@@ -1,0 +1,1843 @@
+
+12:06:55; python3.10 04_nn.py is not running
+12:06:56; python3.10 04_nn.py is not running
+12:06:57; python3.10 04_nn.py is not running
+12:06:58; python3.10 04_nn.py is not running
+12:06:59; python3.10 04_nn.py is not running
+12:07:00; python3.10 04_nn.py is not running
+12:07:01; python3.10 04_nn.py is not running
+12:07:02; python3.10 04_nn.py is not running
+12:07:03; python3.10 04_nn.py is not running
+12:07:04; python3.10 04_nn.py is not running
+12:07:05; python3.10 04_nn.py is not running
+12:07:06; python3.10 04_nn.py is not running
+12:07:08; python3.10 04_nn.py is not running
+12:07:09; 95.0 ; 1.0 ;python3.10 04_nn.py
+12:07:10; 85.5 ; 1.5 ;python3.10 04_nn.py
+12:07:11; 84.3 ; 4.1 ;python3.10 04_nn.py
+12:07:12; 82.5 ; 5.4 ;python3.10 04_nn.py
+12:07:13; 82.6 ; 5.8 ;python3.10 04_nn.py
+12:07:14; 81.8 ; 6.2 ;python3.10 04_nn.py
+12:07:15; 81.8 ; 6.5 ;python3.10 04_nn.py
+12:07:16; 80.5 ; 7.1 ;python3.10 04_nn.py
+12:07:17; 82.6 ; 7.5 ;python3.10 04_nn.py
+12:07:18; 74.8 ; 8.0 ;python3.10 04_nn.py
+12:07:19; 75.2 ; 8.2 ;python3.10 04_nn.py
+12:07:20; 75.6 ; 8.5 ;python3.10 04_nn.py
+12:07:21; 78.0 ; 9.2 ;python3.10 04_nn.py
+12:07:23; 76.8 ; 9.9 ;python3.10 04_nn.py
+12:07:24; 73.4 ;11.2 ;python3.10 04_nn.py
+12:07:25; 69.9 ;12.4 ;python3.10 04_nn.py
+12:07:26; 66.8 ;13.7 ;python3.10 04_nn.py
+12:07:27; 64.1 ;14.9 ;python3.10 04_nn.py
+12:07:28; 61.5 ;16.1 ;python3.10 04_nn.py
+12:07:29; 59.5 ;17.3 ;python3.10 04_nn.py
+12:07:30; 57.9 ;18.6 ;python3.10 04_nn.py
+12:07:31; 53.6 ;19.8 ;python3.10 04_nn.py
+12:07:32; 52.0 ;21.1 ;python3.10 04_nn.py
+12:07:33; 50.6 ;22.3 ;python3.10 04_nn.py
+12:07:34; 52.2 ;24.7 ;python3.10 04_nn.py
+12:07:36; 54.1 ;31.6 ;python3.10 04_nn.py
+12:07:37; 56.0 ;42.2 ;python3.10 04_nn.py
+12:07:38; 58.0 ;35.9 ;python3.10 04_nn.py
+12:07:39; 61.8 ;36.0 ;python3.10 04_nn.py
+12:07:40; 65.5 ;36.0 ;python3.10 04_nn.py
+12:07:41; 69.0 ;36.0 ;python3.10 04_nn.py
+12:07:42; 72.1 ;36.0 ;python3.10 04_nn.py
+12:07:43; 75.0 ;36.0 ;python3.10 04_nn.py
+12:07:44; 77.9 ;36.0 ;python3.10 04_nn.py
+12:07:45; 78.4 ;36.0 ;python3.10 04_nn.py
+12:07:46; 80.8 ;36.1 ;python3.10 04_nn.py
+12:07:47; 83.2 ;36.1 ;python3.10 04_nn.py
+12:07:49; 85.4 ;36.1 ;python3.10 04_nn.py
+12:07:50; 87.6 ;36.1 ;python3.10 04_nn.py
+12:07:51; 89.7 ;36.1 ;python3.10 04_nn.py
+12:07:52; 91.6 ;36.1 ;python3.10 04_nn.py
+12:07:53; 93.5 ;36.1 ;python3.10 04_nn.py
+12:07:54; 95.4 ;36.1 ;python3.10 04_nn.py
+12:07:55; 97.1 ;36.1 ;python3.10 04_nn.py
+12:07:56; 98.7 ;36.1 ;python3.10 04_nn.py
+12:07:57; 97.8 ;36.1 ;python3.10 04_nn.py
+12:07:58; 98.0 ;36.1 ;python3.10 04_nn.py
+12:07:59; 98.2 ;36.1 ;python3.10 04_nn.py
+12:08:00; 97.5 ;36.4 ;python3.10 04_nn.py
+12:08:02; 95.7 ;36.4 ;python3.10 04_nn.py
+12:08:03; 93.9 ;36.4 ;python3.10 04_nn.py
+12:08:04; 92.2 ;36.4 ;python3.10 04_nn.py
+12:08:05; 90.6 ;36.4 ;python3.10 04_nn.py
+12:08:06; 89.1 ;36.4 ;python3.10 04_nn.py
+12:08:07; 87.5 ;36.4 ;python3.10 04_nn.py
+12:08:08; 86.1 ;36.4 ;python3.10 04_nn.py
+12:08:09; 84.7 ;36.4 ;python3.10 04_nn.py
+12:08:10; 83.5 ;36.6 ;python3.10 04_nn.py
+12:08:11; 83.7 ;36.9 ;python3.10 04_nn.py
+12:08:12; 83.0 ;37.8 ;python3.10 04_nn.py
+12:08:13; 80.7 ;39.0 ;python3.10 04_nn.py
+12:08:14; 80.4 ;46.8 ;python3.10 04_nn.py
+12:08:15; 80.8 ;38.1 ;python3.10 04_nn.py
+12:08:17; 81.2 ;44.9 ;python3.10 04_nn.py
+12:08:18; 81.6 ;54.5 ;python3.10 04_nn.py
+12:08:19; 82.1 ;50.0 ;python3.10 04_nn.py
+12:08:20; 83.4 ;50.1 ;python3.10 04_nn.py
+12:08:21; 84.7 ;50.1 ;python3.10 04_nn.py
+12:08:22; 85.9 ;50.1 ;python3.10 04_nn.py
+12:08:23; 87.1 ;50.1 ;python3.10 04_nn.py
+12:08:24; 88.3 ;50.1 ;python3.10 04_nn.py
+12:08:25; 89.5 ;50.1 ;python3.10 04_nn.py
+12:08:26; 89.4 ;50.1 ;python3.10 04_nn.py
+12:08:27; 90.5 ;50.1 ;python3.10 04_nn.py
+12:08:28; 91.6 ;50.2 ;python3.10 04_nn.py
+12:08:30; 92.6 ;50.2 ;python3.10 04_nn.py
+12:08:31; 93.6 ;50.2 ;python3.10 04_nn.py
+12:08:32; 94.7 ;50.2 ;python3.10 04_nn.py
+12:08:33; 95.6 ;50.2 ;python3.10 04_nn.py
+12:08:34; 96.5 ;50.2 ;python3.10 04_nn.py
+12:08:35; 97.4 ;50.2 ;python3.10 04_nn.py
+12:08:36; 98.4 ;50.2 ;python3.10 04_nn.py
+12:08:37; 99.2 ;50.2 ;python3.10 04_nn.py
+12:08:38; 99.8 ;50.2 ;python3.10 04_nn.py
+12:08:39; 98.8 ;37.2 ;python3.10 04_nn.py
+12:08:40; 98.9 ;37.2 ;python3.10 04_nn.py
+12:08:41; 98.0 ;37.2 ;python3.10 04_nn.py
+12:08:42; 97.0 ;37.2 ;python3.10 04_nn.py
+12:08:44; 96.0 ;37.2 ;python3.10 04_nn.py
+12:08:45; 95.0 ;37.2 ;python3.10 04_nn.py
+12:08:46; 94.0 ;37.2 ;python3.10 04_nn.py
+12:08:47; 93.1 ;37.2 ;python3.10 04_nn.py
+12:08:48; 92.1 ;37.2 ;python3.10 04_nn.py
+12:08:49; 91.2 ;37.2 ;python3.10 04_nn.py
+12:08:50; 90.3 ;37.2 ;python3.10 04_nn.py
+12:08:51; 90.0 ;37.2 ;python3.10 04_nn.py
+12:08:52; 90.1 ;40.1 ;python3.10 04_nn.py
+12:08:53; 89.4 ;41.4 ;python3.10 04_nn.py
+12:08:54; 88.5 ;37.7 ;python3.10 04_nn.py
+12:08:55; 88.7 ;41.4 ;python3.10 04_nn.py
+12:08:56; 88.8 ;48.5 ;python3.10 04_nn.py
+12:08:57; 89.0 ;62.0 ;python3.10 04_nn.py
+12:08:59; 89.6 ;50.4 ;python3.10 04_nn.py
+12:09:00; 90.4 ;50.4 ;python3.10 04_nn.py
+12:09:01; 91.1 ;50.4 ;python3.10 04_nn.py
+12:09:02; 91.9 ;50.4 ;python3.10 04_nn.py
+12:09:03; 92.6 ;50.4 ;python3.10 04_nn.py
+12:09:04; 93.3 ;50.5 ;python3.10 04_nn.py
+12:09:05; 94.0 ;50.5 ;python3.10 04_nn.py
+12:09:06; 94.7 ;50.5 ;python3.10 04_nn.py
+12:09:07; 94.6 ;50.5 ;python3.10 04_nn.py
+12:09:08; 95.3 ;50.5 ;python3.10 04_nn.py
+12:09:09; 96.0 ;50.5 ;python3.10 04_nn.py
+12:09:11; 96.6 ;50.5 ;python3.10 04_nn.py
+12:09:12; 97.2 ;50.5 ;python3.10 04_nn.py
+12:09:13; 97.9 ;50.5 ;python3.10 04_nn.py
+12:09:14; 98.5 ;50.5 ;python3.10 04_nn.py
+12:09:15; 99.1 ;50.5 ;python3.10 04_nn.py
+12:09:16; 99.7 ;50.5 ;python3.10 04_nn.py
+12:09:17;  100 ;50.5 ;python3.10 04_nn.py
+12:09:18;  100 ;50.5 ;python3.10 04_nn.py
+12:09:19;  100 ;50.5 ;python3.10 04_nn.py
+12:09:20; 99.3 ;50.5 ;python3.10 04_nn.py
+12:09:21; 98.6 ;50.5 ;python3.10 04_nn.py
+12:09:22; 97.8 ;50.5 ;python3.10 04_nn.py
+12:09:23; 97.1 ;50.5 ;python3.10 04_nn.py
+12:09:24; 96.4 ;50.5 ;python3.10 04_nn.py
+12:09:26; 95.7 ;50.5 ;python3.10 04_nn.py
+12:09:27; 95.0 ;50.5 ;python3.10 04_nn.py
+12:09:28; 94.3 ;50.5 ;python3.10 04_nn.py
+12:09:29; 93.7 ;50.5 ;python3.10 04_nn.py
+12:09:30; 93.1 ;50.5 ;python3.10 04_nn.py
+12:09:31; 93.3 ;11.6 ;python3.10 04_nn.py
+12:09:32; python3.10 04_nn.py is not running
+12:09:33; python3.10 04_nn.py is not running
+12:09:34; python3.10 04_nn.py is not running
+12:09:35; python3.10 04_nn.py is not running
+12:09:36; python3.10 04_nn.py is not running
+12:09:37; 55.0 ; 0.5 ;python3.10 04_nn.py
+12:09:38; 66.5 ; 1.3 ;python3.10 04_nn.py
+12:09:39; 72.0 ; 2.7 ;python3.10 04_nn.py
+12:09:40; 76.0 ; 5.2 ;python3.10 04_nn.py
+12:09:42; 77.6 ; 5.7 ;python3.10 04_nn.py
+12:09:43; 78.1 ; 6.1 ;python3.10 04_nn.py
+12:09:44; 78.7 ; 6.4 ;python3.10 04_nn.py
+12:09:45; 78.7 ; 6.9 ;python3.10 04_nn.py
+12:09:46; 81.7 ; 7.5 ;python3.10 04_nn.py
+12:09:47; 81.5 ; 8.0 ;python3.10 04_nn.py
+12:09:48; 80.8 ; 8.2 ;python3.10 04_nn.py
+12:09:49; 80.8 ; 8.5 ;python3.10 04_nn.py
+12:09:50; 82.4 ; 9.0 ;python3.10 04_nn.py
+12:09:51; 83.7 ;13.8 ;python3.10 04_nn.py
+12:09:52; 79.0 ;15.0 ;python3.10 04_nn.py
+12:09:53; 70.6 ;16.3 ;python3.10 04_nn.py
+12:09:54; 71.6 ;22.5 ;python3.10 04_nn.py
+12:09:55; 73.5 ;28.0 ;python3.10 04_nn.py
+12:09:56; 75.2 ;35.1 ;python3.10 04_nn.py
+12:09:58; 76.7 ;43.5 ;python3.10 04_nn.py
+12:09:59; 80.1 ;35.9 ;python3.10 04_nn.py
+12:10:00; 84.1 ;35.9 ;python3.10 04_nn.py
+12:10:01; 88.0 ;35.9 ;python3.10 04_nn.py
+12:10:02; 91.4 ;36.0 ;python3.10 04_nn.py
+12:10:03; 94.7 ;36.0 ;python3.10 04_nn.py
+12:10:04; 97.7 ;36.0 ;python3.10 04_nn.py
+12:10:05;  100 ;36.0 ;python3.10 04_nn.py
+12:10:06;  103 ;36.0 ;python3.10 04_nn.py
+12:10:07;  102 ;36.0 ;python3.10 04_nn.py
+12:10:08;  104 ;36.0 ;python3.10 04_nn.py
+12:10:09;  106 ;36.0 ;python3.10 04_nn.py
+12:10:11;  108 ;36.0 ;python3.10 04_nn.py
+12:10:12;  110 ;36.0 ;python3.10 04_nn.py
+12:10:13;  112 ;36.0 ;python3.10 04_nn.py
+12:10:14;  114 ;36.0 ;python3.10 04_nn.py
+12:10:15;  115 ;36.0 ;python3.10 04_nn.py
+12:10:16;  117 ;36.0 ;python3.10 04_nn.py
+12:10:17;  118 ;36.0 ;python3.10 04_nn.py
+12:10:18;  118 ;36.1 ;python3.10 04_nn.py
+12:10:19;  115 ;36.1 ;python3.10 04_nn.py
+12:10:20;  115 ;36.2 ;python3.10 04_nn.py
+12:10:21;  113 ;36.4 ;python3.10 04_nn.py
+12:10:22;  110 ;36.4 ;python3.10 04_nn.py
+12:10:23;  108 ;36.4 ;python3.10 04_nn.py
+12:10:25;  106 ;36.4 ;python3.10 04_nn.py
+12:10:26;  104 ;36.4 ;python3.10 04_nn.py
+12:10:27;  101 ;36.4 ;python3.10 04_nn.py
+12:10:28; 99.9 ;36.4 ;python3.10 04_nn.py
+12:10:29; 98.0 ;36.4 ;python3.10 04_nn.py
+12:10:30; 96.1 ;36.4 ;python3.10 04_nn.py
+12:10:31; 94.3 ;36.4 ;python3.10 04_nn.py
+12:10:32; 92.6 ;36.4 ;python3.10 04_nn.py
+12:10:33; 91.0 ;36.4 ;python3.10 04_nn.py
+12:10:34; 87.8 ;36.4 ;python3.10 04_nn.py
+12:10:35; 86.3 ;36.4 ;python3.10 04_nn.py
+12:10:36; 84.9 ;36.4 ;python3.10 04_nn.py
+12:10:38; 83.5 ;36.4 ;python3.10 04_nn.py
+12:10:39; 82.2 ;36.4 ;python3.10 04_nn.py
+12:10:40; 80.9 ;36.4 ;python3.10 04_nn.py
+12:10:41; 79.6 ;36.4 ;python3.10 04_nn.py
+12:10:42; 78.4 ;36.4 ;python3.10 04_nn.py
+12:10:43; 77.2 ;36.4 ;python3.10 04_nn.py
+12:10:44; 76.0 ;36.4 ;python3.10 04_nn.py
+12:10:45; 74.9 ;36.4 ;python3.10 04_nn.py
+12:10:46; 73.8 ;36.4 ;python3.10 04_nn.py
+12:10:47; 72.8 ;36.4 ;python3.10 04_nn.py
+12:10:48; 70.7 ;36.4 ;python3.10 04_nn.py
+12:10:49; 70.4 ;36.5 ;python3.10 04_nn.py
+12:10:50; 70.9 ;39.8 ;python3.10 04_nn.py
+12:10:52; 71.4 ;36.8 ;python3.10 04_nn.py
+12:10:53; 71.9 ;41.5 ;python3.10 04_nn.py
+12:10:54; 72.3 ;48.5 ;python3.10 04_nn.py
+12:10:55; 72.8 ;62.5 ;python3.10 04_nn.py
+12:10:56; 73.8 ;50.0 ;python3.10 04_nn.py
+12:10:57; 75.1 ;50.1 ;python3.10 04_nn.py
+12:10:58; 76.3 ;50.1 ;python3.10 04_nn.py
+12:10:59; 77.6 ;50.1 ;python3.10 04_nn.py
+12:11:00; 78.8 ;50.1 ;python3.10 04_nn.py
+12:11:01; 79.0 ;50.1 ;python3.10 04_nn.py
+12:11:02; 80.1 ;50.1 ;python3.10 04_nn.py
+12:11:03; 81.2 ;50.1 ;python3.10 04_nn.py
+12:11:05; 82.3 ;50.1 ;python3.10 04_nn.py
+12:11:06; 83.3 ;50.1 ;python3.10 04_nn.py
+12:11:07; 84.4 ;50.1 ;python3.10 04_nn.py
+12:11:08; 85.4 ;50.1 ;python3.10 04_nn.py
+12:11:09; 86.4 ;50.1 ;python3.10 04_nn.py
+12:11:10; 87.4 ;50.1 ;python3.10 04_nn.py
+12:11:11; 88.4 ;50.1 ;python3.10 04_nn.py
+12:11:12; 89.3 ;50.1 ;python3.10 04_nn.py
+12:11:13; 90.2 ;50.1 ;python3.10 04_nn.py
+12:11:14; 90.2 ;50.1 ;python3.10 04_nn.py
+12:11:15; 90.4 ;37.2 ;python3.10 04_nn.py
+12:11:16; 90.5 ;37.2 ;python3.10 04_nn.py
+12:11:18; 90.4 ;37.2 ;python3.10 04_nn.py
+12:11:19; 89.5 ;37.2 ;python3.10 04_nn.py
+12:11:20; 88.7 ;37.2 ;python3.10 04_nn.py
+12:11:21; 87.8 ;37.2 ;python3.10 04_nn.py
+12:11:22; 87.0 ;37.2 ;python3.10 04_nn.py
+12:11:23; 86.1 ;37.2 ;python3.10 04_nn.py
+12:11:24; 85.3 ;37.2 ;python3.10 04_nn.py
+12:11:25; 84.6 ;37.2 ;python3.10 04_nn.py
+12:11:26; 83.8 ;37.2 ;python3.10 04_nn.py
+12:11:27; 83.0 ;37.2 ;python3.10 04_nn.py
+12:11:28; 83.1 ;37.2 ;python3.10 04_nn.py
+12:11:29; 82.5 ;44.5 ;python3.10 04_nn.py
+12:11:30; 81.9 ;45.7 ;python3.10 04_nn.py
+12:11:31; 81.3 ;46.9 ;python3.10 04_nn.py
+12:11:32; 80.7 ;48.1 ;python3.10 04_nn.py
+12:11:34; 80.9 ;38.8 ;python3.10 04_nn.py
+12:11:35; 81.2 ;45.6 ;python3.10 04_nn.py
+12:11:36; 81.4 ;55.6 ;python3.10 04_nn.py
+12:11:37; 81.7 ;50.3 ;python3.10 04_nn.py
+12:11:38; 82.5 ;50.4 ;python3.10 04_nn.py
+12:11:39; 83.2 ;50.4 ;python3.10 04_nn.py
+12:11:40; 84.0 ;50.4 ;python3.10 04_nn.py
+12:11:41; 84.7 ;50.4 ;python3.10 04_nn.py
+12:11:42; 85.4 ;50.4 ;python3.10 04_nn.py
+12:11:43; 85.5 ;50.4 ;python3.10 04_nn.py
+12:11:44; 86.2 ;50.4 ;python3.10 04_nn.py
+12:11:45; 86.9 ;50.4 ;python3.10 04_nn.py
+12:11:46; 87.6 ;50.4 ;python3.10 04_nn.py
+12:11:48; 88.2 ;50.4 ;python3.10 04_nn.py
+12:11:49; 88.9 ;50.4 ;python3.10 04_nn.py
+12:11:50; 89.5 ;50.4 ;python3.10 04_nn.py
+12:11:51; 90.2 ;50.4 ;python3.10 04_nn.py
+12:11:52; 90.8 ;50.4 ;python3.10 04_nn.py
+12:11:53; 91.5 ;50.4 ;python3.10 04_nn.py
+12:11:54; 92.1 ;50.4 ;python3.10 04_nn.py
+12:11:55; 92.7 ;50.4 ;python3.10 04_nn.py
+12:11:56; 92.5 ;50.4 ;python3.10 04_nn.py
+12:11:57; 92.6 ;50.4 ;python3.10 04_nn.py
+12:11:58; 92.7 ;50.4 ;python3.10 04_nn.py
+12:11:59; 92.0 ;50.4 ;python3.10 04_nn.py
+12:12:01; 91.4 ;50.4 ;python3.10 04_nn.py
+12:12:02; 90.7 ;50.4 ;python3.10 04_nn.py
+12:12:03; 90.1 ;50.4 ;python3.10 04_nn.py
+12:12:04; 89.5 ;50.4 ;python3.10 04_nn.py
+12:12:05; 88.9 ;50.4 ;python3.10 04_nn.py
+12:12:06; 88.3 ;50.4 ;python3.10 04_nn.py
+12:12:07; 87.7 ;50.4 ;python3.10 04_nn.py
+12:12:08; 87.1 ;50.4 ;python3.10 04_nn.py
+12:12:09; 87.0 ;11.5 ;python3.10 04_nn.py
+12:12:10; python3.10 04_nn.py is not running
+12:12:11; python3.10 04_nn.py is not running
+12:12:12; python3.10 04_nn.py is not running
+12:12:13; python3.10 04_nn.py is not running
+12:12:14; python3.10 04_nn.py is not running
+12:12:15; python3.10 04_nn.py is not running
+12:12:16; python3.10 04_nn.py is not running
+12:12:17; python3.10 04_nn.py is not running
+12:12:19; python3.10 04_nn.py is not running
+12:12:20; python3.10 04_nn.py is not running
+12:12:21; python3.10 04_nn.py is not running
+12:12:22; python3.10 04_nn.py is not running
+12:12:23; python3.10 04_nn.py is not running
+12:12:24; python3.10 04_nn.py is not running
+12:12:25; python3.10 04_nn.py is not running
+12:12:26; python3.10 04_nn.py is not running
+12:12:27; python3.10 04_nn.py is not running
+12:12:28; python3.10 04_nn.py is not running
+12:12:29; python3.10 04_nn.py is not running
+12:12:30; python3.10 04_nn.py is not running
+12:12:31; python3.10 04_nn.py is not running
+12:12:32; python3.10 04_nn.py is not running
+12:12:33; python3.10 04_nn.py is not running
+12:12:34; python3.10 04_nn.py is not running
+12:12:35; python3.10 04_nn.py is not running
+12:12:36; python3.10 04_nn.py is not running
+12:12:37; python3.10 04_nn.py is not running
+12:12:38; python3.10 04_nn.py is not running
+12:12:39; python3.10 04_nn.py is not running
+12:12:40; python3.10 04_nn.py is not running
+12:12:42; python3.10 04_nn.py is not running
+12:12:43; python3.10 04_nn.py is not running
+12:12:44; python3.10 04_nn.py is not running
+12:12:45; python3.10 04_nn.py is not running
+12:12:46; python3.10 04_nn.py is not running
+12:12:47; python3.10 04_nn.py is not running
+12:12:48; python3.10 04_nn.py is not running
+12:12:49; python3.10 04_nn.py is not running
+12:12:50; python3.10 04_nn.py is not running
+12:12:51; python3.10 04_nn.py is not running
+12:12:52; python3.10 04_nn.py is not running
+12:12:53; python3.10 04_nn.py is not running
+12:12:54; python3.10 04_nn.py is not running
+12:12:55; python3.10 04_nn.py is not running
+12:12:56; python3.10 04_nn.py is not running
+12:12:57; python3.10 04_nn.py is not running
+12:12:58; python3.10 04_nn.py is not running
+12:12:59; python3.10 04_nn.py is not running
+12:13:00; python3.10 04_nn.py is not running
+12:13:01; python3.10 04_nn.py is not running
+12:13:02; python3.10 04_nn.py is not running
+12:13:03; python3.10 04_nn.py is not running
+12:13:04; python3.10 04_nn.py is not running
+12:13:06; python3.10 04_nn.py is not running
+12:13:07; python3.10 04_nn.py is not running
+12:13:08; python3.10 04_nn.py is not running
+12:13:09; python3.10 04_nn.py is not running
+12:13:10; python3.10 04_nn.py is not running
+12:13:11; python3.10 04_nn.py is not running
+12:13:12; python3.10 04_nn.py is not running
+12:13:13; python3.10 04_nn.py is not running
+12:13:14; python3.10 04_nn.py is not running
+12:13:15; python3.10 04_nn.py is not running
+12:13:16;  116 ; 1.2 ;python3.10 04_nn.py
+12:13:17;  111 ; 3.3 ;python3.10 04_nn.py
+12:13:18;  110 ; 5.4 ;python3.10 04_nn.py
+12:13:19;  109 ; 6.1 ;python3.10 04_nn.py
+12:13:20;  108 ; 6.6 ;python3.10 04_nn.py
+12:13:21; 96.1 ; 7.5 ;python3.10 04_nn.py
+12:13:22; 97.5 ; 8.1 ;python3.10 04_nn.py
+12:13:23; 98.4 ; 8.4 ;python3.10 04_nn.py
+12:13:25; 99.5 ; 9.1 ;python3.10 04_nn.py
+12:13:26; 98.0 ; 9.7 ;python3.10 04_nn.py
+12:13:27; 91.1 ;10.9 ;python3.10 04_nn.py
+12:13:28; 85.3 ;12.2 ;python3.10 04_nn.py
+12:13:29; 80.2 ;13.4 ;python3.10 04_nn.py
+12:13:30; 79.0 ;21.1 ;python3.10 04_nn.py
+12:13:31; 75.6 ;22.3 ;python3.10 04_nn.py
+12:13:32; 76.6 ;24.6 ;python3.10 04_nn.py
+12:13:33; 78.2 ;31.7 ;python3.10 04_nn.py
+12:13:34; 79.9 ;42.6 ;python3.10 04_nn.py
+12:13:35; 77.9 ;35.9 ;python3.10 04_nn.py
+12:13:36; 82.3 ;36.1 ;python3.10 04_nn.py
+12:13:37; 86.4 ;36.1 ;python3.10 04_nn.py
+12:13:38; 90.1 ;36.1 ;python3.10 04_nn.py
+12:13:40; 93.6 ;36.1 ;python3.10 04_nn.py
+12:13:41; 96.8 ;36.1 ;python3.10 04_nn.py
+12:13:42; 99.9 ;36.1 ;python3.10 04_nn.py
+12:13:43;  102 ;36.1 ;python3.10 04_nn.py
+12:13:44;  105 ;36.1 ;python3.10 04_nn.py
+12:13:45;  107 ;36.1 ;python3.10 04_nn.py
+12:13:46;  109 ;36.1 ;python3.10 04_nn.py
+12:13:47;  111 ;36.1 ;python3.10 04_nn.py
+12:13:48;  110 ;36.1 ;python3.10 04_nn.py
+12:13:49;  112 ;36.1 ;python3.10 04_nn.py
+12:13:50;  114 ;36.1 ;python3.10 04_nn.py
+12:13:52;  115 ;36.1 ;python3.10 04_nn.py
+12:13:53;  117 ;36.1 ;python3.10 04_nn.py
+12:13:54;  119 ;36.1 ;python3.10 04_nn.py
+12:13:55;  119 ;36.2 ;python3.10 04_nn.py
+12:13:56;  119 ;36.2 ;python3.10 04_nn.py
+12:13:57;  119 ;36.2 ;python3.10 04_nn.py
+12:13:58;  117 ;36.5 ;python3.10 04_nn.py
+12:13:59;  114 ;36.5 ;python3.10 04_nn.py
+12:14:00;  112 ;36.5 ;python3.10 04_nn.py
+12:14:01;  109 ;36.5 ;python3.10 04_nn.py
+12:14:02;  105 ;36.5 ;python3.10 04_nn.py
+12:14:03;  103 ;36.5 ;python3.10 04_nn.py
+12:14:04;  100 ;36.5 ;python3.10 04_nn.py
+12:14:05; 98.9 ;36.5 ;python3.10 04_nn.py
+12:14:07; 97.0 ;36.5 ;python3.10 04_nn.py
+12:14:08; 95.7 ;36.7 ;python3.10 04_nn.py
+12:14:09; 96.0 ;37.9 ;python3.10 04_nn.py
+12:14:10; 95.0 ;42.5 ;python3.10 04_nn.py
+12:14:11; 95.2 ;37.0 ;python3.10 04_nn.py
+12:14:12; 95.4 ;42.7 ;python3.10 04_nn.py
+12:14:13; 95.6 ;49.8 ;python3.10 04_nn.py
+12:14:14; 95.8 ;50.0 ;python3.10 04_nn.py
+12:14:15; 96.9 ;50.2 ;python3.10 04_nn.py
+12:14:16; 96.6 ;50.2 ;python3.10 04_nn.py
+12:14:17; 97.9 ;50.2 ;python3.10 04_nn.py
+12:14:18; 99.2 ;50.2 ;python3.10 04_nn.py
+12:14:20;  100 ;50.3 ;python3.10 04_nn.py
+12:14:21;  101 ;50.3 ;python3.10 04_nn.py
+12:14:22;  102 ;50.3 ;python3.10 04_nn.py
+12:14:23;  103 ;50.3 ;python3.10 04_nn.py
+12:14:24;  104 ;50.3 ;python3.10 04_nn.py
+12:14:25;  106 ;50.3 ;python3.10 04_nn.py
+12:14:26;  107 ;50.3 ;python3.10 04_nn.py
+12:14:27;  108 ;50.3 ;python3.10 04_nn.py
+12:14:28;  108 ;50.3 ;python3.10 04_nn.py
+12:14:29;  108 ;50.3 ;python3.10 04_nn.py
+12:14:30;  109 ;50.3 ;python3.10 04_nn.py
+12:14:31;  110 ;50.3 ;python3.10 04_nn.py
+12:14:33;  111 ;50.3 ;python3.10 04_nn.py
+12:14:34;  111 ;50.3 ;python3.10 04_nn.py
+12:14:35;  111 ;37.3 ;python3.10 04_nn.py
+12:14:36;  111 ;37.3 ;python3.10 04_nn.py
+12:14:37;  110 ;37.3 ;python3.10 04_nn.py
+12:14:38;  109 ;37.3 ;python3.10 04_nn.py
+12:14:39;  108 ;37.3 ;python3.10 04_nn.py
+12:14:40;  106 ;37.3 ;python3.10 04_nn.py
+12:14:41;  105 ;37.3 ;python3.10 04_nn.py
+12:14:42;  104 ;37.3 ;python3.10 04_nn.py
+12:14:43;  102 ;37.3 ;python3.10 04_nn.py
+12:14:44;  101 ;37.3 ;python3.10 04_nn.py
+12:14:45; 99.9 ;37.3 ;python3.10 04_nn.py
+12:14:46; 98.9 ;37.3 ;python3.10 04_nn.py
+12:14:48; 99.0 ;37.5 ;python3.10 04_nn.py
+12:14:49; 98.6 ;42.8 ;python3.10 04_nn.py
+12:14:50; 97.7 ;44.0 ;python3.10 04_nn.py
+12:14:51; 97.2 ;50.0 ;python3.10 04_nn.py
+12:14:52; 97.3 ;40.0 ;python3.10 04_nn.py
+12:14:53; 97.4 ;47.1 ;python3.10 04_nn.py
+12:14:54; 97.5 ;58.8 ;python3.10 04_nn.py
+12:14:55; 97.8 ;50.5 ;python3.10 04_nn.py
+12:14:56; 98.6 ;50.5 ;python3.10 04_nn.py
+12:14:57; 98.4 ;50.5 ;python3.10 04_nn.py
+12:14:58; 99.2 ;50.5 ;python3.10 04_nn.py
+12:14:59; 99.9 ;50.5 ;python3.10 04_nn.py
+12:15:00;  100 ;50.5 ;python3.10 04_nn.py
+12:15:02;  101 ;50.5 ;python3.10 04_nn.py
+12:15:03;  102 ;50.5 ;python3.10 04_nn.py
+12:15:04;  102 ;50.5 ;python3.10 04_nn.py
+12:15:05;  103 ;50.5 ;python3.10 04_nn.py
+12:15:06;  104 ;50.5 ;python3.10 04_nn.py
+12:15:07;  104 ;50.5 ;python3.10 04_nn.py
+12:15:08;  105 ;50.5 ;python3.10 04_nn.py
+12:15:09;  106 ;50.5 ;python3.10 04_nn.py
+12:15:10;  105 ;50.5 ;python3.10 04_nn.py
+12:15:11;  106 ;50.5 ;python3.10 04_nn.py
+12:15:12;  106 ;50.5 ;python3.10 04_nn.py
+12:15:14;  107 ;50.5 ;python3.10 04_nn.py
+12:15:15;  107 ;50.5 ;python3.10 04_nn.py
+12:15:16;  107 ;50.5 ;python3.10 04_nn.py
+12:15:17;  107 ;50.5 ;python3.10 04_nn.py
+12:15:18;  106 ;50.5 ;python3.10 04_nn.py
+12:15:19;  105 ;50.5 ;python3.10 04_nn.py
+12:15:20;  104 ;50.5 ;python3.10 04_nn.py
+12:15:21;  103 ;50.5 ;python3.10 04_nn.py
+12:15:22;  103 ;50.5 ;python3.10 04_nn.py
+12:15:23;  102 ;50.5 ;python3.10 04_nn.py
+12:15:24;  100 ;50.5 ;python3.10 04_nn.py
+12:15:25;  100 ;50.5 ;python3.10 04_nn.py
+12:15:26; 99.2 ;50.5 ;python3.10 04_nn.py
+12:15:27; 99.2 ;11.6 ;python3.10 04_nn.py
+12:15:29; python3.10 04_nn.py is not running
+12:15:30; python3.10 04_nn.py is not running
+12:15:31; python3.10 04_nn.py is not running
+12:15:32; python3.10 04_nn.py is not running
+12:15:33; python3.10 04_nn.py is not running
+12:15:34; python3.10 04_nn.py is not running
+12:15:35;  101 ; 1.0 ;python3.10 04_nn.py
+12:15:36; 89.5 ; 1.6 ;python3.10 04_nn.py
+12:15:37; 90.3 ; 5.1 ;python3.10 04_nn.py
+12:15:38; 88.7 ; 5.6 ;python3.10 04_nn.py
+12:15:39; 86.8 ; 6.1 ;python3.10 04_nn.py
+12:15:40; 86.0 ; 6.5 ;python3.10 04_nn.py
+12:15:41; 85.0 ; 6.9 ;python3.10 04_nn.py
+12:15:42; 78.1 ; 7.5 ;python3.10 04_nn.py
+12:15:43; 78.3 ; 7.9 ;python3.10 04_nn.py
+12:15:44; 77.5 ; 8.2 ;python3.10 04_nn.py
+12:15:45; 78.2 ; 8.5 ;python3.10 04_nn.py
+12:15:47; 79.2 ; 9.2 ;python3.10 04_nn.py
+12:15:48; 81.2 ;10.4 ;python3.10 04_nn.py
+12:15:49; 79.8 ;17.7 ;python3.10 04_nn.py
+12:15:50; 75.7 ;18.9 ;python3.10 04_nn.py
+12:15:51; 73.4 ;22.7 ;python3.10 04_nn.py
+12:15:52; 75.3 ;26.2 ;python3.10 04_nn.py
+12:15:53; 77.0 ;33.3 ;python3.10 04_nn.py
+12:15:54; 78.6 ;45.6 ;python3.10 04_nn.py
+12:15:55; 81.0 ;36.2 ;python3.10 04_nn.py
+12:15:56; 85.4 ;36.2 ;python3.10 04_nn.py
+12:15:57; 85.7 ;36.2 ;python3.10 04_nn.py
+12:15:58; 89.2 ;36.2 ;python3.10 04_nn.py
+12:15:59; 92.7 ;36.3 ;python3.10 04_nn.py
+12:16:01; 95.7 ;36.3 ;python3.10 04_nn.py
+12:16:02; 98.6 ;36.3 ;python3.10 04_nn.py
+12:16:03;  101 ;36.3 ;python3.10 04_nn.py
+12:16:04;  103 ;36.3 ;python3.10 04_nn.py
+12:16:05;  106 ;36.3 ;python3.10 04_nn.py
+12:16:06;  108 ;36.3 ;python3.10 04_nn.py
+12:16:07;  110 ;36.3 ;python3.10 04_nn.py
+12:16:08;  112 ;36.3 ;python3.10 04_nn.py
+12:16:09;  114 ;36.3 ;python3.10 04_nn.py
+12:16:10;  113 ;36.3 ;python3.10 04_nn.py
+12:16:11;  114 ;36.3 ;python3.10 04_nn.py
+12:16:12;  116 ;36.3 ;python3.10 04_nn.py
+12:16:14;  117 ;36.3 ;python3.10 04_nn.py
+12:16:15;  118 ;36.3 ;python3.10 04_nn.py
+12:16:16;  117 ;36.3 ;python3.10 04_nn.py
+12:16:17;  117 ;36.6 ;python3.10 04_nn.py
+12:16:18;  115 ;36.6 ;python3.10 04_nn.py
+12:16:19;  112 ;36.6 ;python3.10 04_nn.py
+12:16:20;  110 ;36.6 ;python3.10 04_nn.py
+12:16:21;  107 ;36.6 ;python3.10 04_nn.py
+12:16:22;  105 ;36.6 ;python3.10 04_nn.py
+12:16:23;  103 ;36.6 ;python3.10 04_nn.py
+12:16:24; 99.3 ;36.6 ;python3.10 04_nn.py
+12:16:25; 97.4 ;36.6 ;python3.10 04_nn.py
+12:16:26; 95.6 ;36.6 ;python3.10 04_nn.py
+12:16:27; 94.9 ;36.8 ;python3.10 04_nn.py
+12:16:29; 95.2 ;42.1 ;python3.10 04_nn.py
+12:16:30; 95.4 ;37.2 ;python3.10 04_nn.py
+12:16:31; 95.6 ;42.7 ;python3.10 04_nn.py
+12:16:32; 95.8 ;49.9 ;python3.10 04_nn.py
+12:16:33; 96.0 ;50.1 ;python3.10 04_nn.py
+12:16:34; 97.1 ;50.3 ;python3.10 04_nn.py
+12:16:35; 98.4 ;50.3 ;python3.10 04_nn.py
+12:16:36; 99.5 ;50.3 ;python3.10 04_nn.py
+12:16:37;  100 ;50.4 ;python3.10 04_nn.py
+12:16:38;  100 ;50.4 ;python3.10 04_nn.py
+12:16:39;  101 ;50.4 ;python3.10 04_nn.py
+12:16:40;  102 ;50.4 ;python3.10 04_nn.py
+12:16:42;  103 ;50.4 ;python3.10 04_nn.py
+12:16:43;  104 ;50.4 ;python3.10 04_nn.py
+12:16:44;  106 ;50.4 ;python3.10 04_nn.py
+12:16:45;  107 ;50.4 ;python3.10 04_nn.py
+12:16:46;  108 ;50.4 ;python3.10 04_nn.py
+12:16:47;  108 ;50.4 ;python3.10 04_nn.py
+12:16:48;  109 ;50.4 ;python3.10 04_nn.py
+12:16:49;  110 ;50.4 ;python3.10 04_nn.py
+12:16:50;  111 ;50.4 ;python3.10 04_nn.py
+12:16:51;  110 ;50.4 ;python3.10 04_nn.py
+12:16:52;  111 ;50.4 ;python3.10 04_nn.py
+12:16:53;  111 ;37.5 ;python3.10 04_nn.py
+12:16:54;  111 ;37.5 ;python3.10 04_nn.py
+12:16:56;  110 ;37.5 ;python3.10 04_nn.py
+12:16:57;  109 ;37.5 ;python3.10 04_nn.py
+12:16:58;  108 ;37.5 ;python3.10 04_nn.py
+12:16:59;  106 ;37.5 ;python3.10 04_nn.py
+12:17:00;  105 ;37.5 ;python3.10 04_nn.py
+12:17:01;  104 ;37.5 ;python3.10 04_nn.py
+12:17:02;  103 ;37.5 ;python3.10 04_nn.py
+12:17:03;  102 ;37.5 ;python3.10 04_nn.py
+12:17:04;  101 ;37.5 ;python3.10 04_nn.py
+12:17:05; 99.8 ;37.5 ;python3.10 04_nn.py
+12:17:06; 97.7 ;37.5 ;python3.10 04_nn.py
+12:17:07; 96.7 ;37.5 ;python3.10 04_nn.py
+12:17:08; 95.6 ;37.5 ;python3.10 04_nn.py
+12:17:10; 94.6 ;37.5 ;python3.10 04_nn.py
+12:17:11; 93.7 ;37.5 ;python3.10 04_nn.py
+12:17:12; 92.7 ;37.5 ;python3.10 04_nn.py
+12:17:13; 91.8 ;37.5 ;python3.10 04_nn.py
+12:17:14; 90.9 ;37.5 ;python3.10 04_nn.py
+12:17:15; 90.0 ;37.5 ;python3.10 04_nn.py
+12:17:16; 89.1 ;37.5 ;python3.10 04_nn.py
+12:17:17; 88.2 ;37.5 ;python3.10 04_nn.py
+12:17:18; 87.4 ;37.5 ;python3.10 04_nn.py
+12:17:19; 86.5 ;37.5 ;python3.10 04_nn.py
+12:17:20; 84.9 ;37.5 ;python3.10 04_nn.py
+12:17:21; 84.1 ;37.5 ;python3.10 04_nn.py
+12:17:22; 83.3 ;37.5 ;python3.10 04_nn.py
+12:17:23; 82.6 ;37.5 ;python3.10 04_nn.py
+12:17:25; 82.3 ;37.5 ;python3.10 04_nn.py
+12:17:26; 82.3 ;37.8 ;python3.10 04_nn.py
+12:17:27; 81.7 ;39.0 ;python3.10 04_nn.py
+12:17:28; 81.1 ;40.3 ;python3.10 04_nn.py
+12:17:29; 81.0 ;48.2 ;python3.10 04_nn.py
+12:17:30; 81.0 ;37.6 ;python3.10 04_nn.py
+12:17:31; 81.2 ;44.2 ;python3.10 04_nn.py
+12:17:32; 81.4 ;52.3 ;python3.10 04_nn.py
+12:17:33; 81.6 ;50.6 ;python3.10 04_nn.py
+12:17:34; 82.4 ;50.6 ;python3.10 04_nn.py
+12:17:35; 82.5 ;50.6 ;python3.10 04_nn.py
+12:17:36; 83.3 ;50.6 ;python3.10 04_nn.py
+12:17:37; 84.0 ;50.6 ;python3.10 04_nn.py
+12:17:39; 84.7 ;50.6 ;python3.10 04_nn.py
+12:17:40; 85.5 ;50.6 ;python3.10 04_nn.py
+12:17:41; 86.2 ;50.6 ;python3.10 04_nn.py
+12:17:42; 86.9 ;50.6 ;python3.10 04_nn.py
+12:17:43; 87.6 ;50.6 ;python3.10 04_nn.py
+12:17:44; 88.2 ;50.6 ;python3.10 04_nn.py
+12:17:45; 88.9 ;50.6 ;python3.10 04_nn.py
+12:17:46; 89.6 ;50.6 ;python3.10 04_nn.py
+12:17:47; 89.5 ;50.6 ;python3.10 04_nn.py
+12:17:48; 90.2 ;50.6 ;python3.10 04_nn.py
+12:17:49; 90.8 ;50.6 ;python3.10 04_nn.py
+12:17:50; 91.4 ;50.6 ;python3.10 04_nn.py
+12:17:52; 92.0 ;50.6 ;python3.10 04_nn.py
+12:17:53; 92.5 ;50.6 ;python3.10 04_nn.py
+12:17:54; 92.6 ;50.6 ;python3.10 04_nn.py
+12:17:55; 92.7 ;50.6 ;python3.10 04_nn.py
+12:17:56; 92.0 ;50.6 ;python3.10 04_nn.py
+12:17:57; 91.4 ;50.6 ;python3.10 04_nn.py
+12:17:58; 90.8 ;50.6 ;python3.10 04_nn.py
+12:17:59; 90.1 ;50.6 ;python3.10 04_nn.py
+12:18:00; 89.5 ;50.6 ;python3.10 04_nn.py
+12:18:01; 88.9 ;50.6 ;python3.10 04_nn.py
+12:18:02; 87.7 ;50.6 ;python3.10 04_nn.py
+12:18:03; 87.1 ;50.6 ;python3.10 04_nn.py
+12:18:04; 86.5 ;50.6 ;python3.10 04_nn.py
+12:18:06; 86.5 ;11.7 ;python3.10 04_nn.py
+12:18:07; python3.10 04_nn.py is not running
+12:18:08; python3.10 04_nn.py is not running
+12:18:09; python3.10 04_nn.py is not running
+12:18:10; python3.10 04_nn.py is not running
+12:18:11; python3.10 04_nn.py is not running
+12:18:12; python3.10 04_nn.py is not running
+12:18:13; python3.10 04_nn.py is not running
+12:18:14;   29011    1961  0.0  0.9 python3.10 04_nn.py
+12:18:15;   29011    1961  184  1.6 python3.10 04_nn.py
+12:18:16;   29011    1961  145  5.3 python3.10 04_nn.py
+12:18:17;   29011    1961  132  5.9 python3.10 04_nn.py
+12:18:18;   29011    1961  100  6.5 python3.10 04_nn.py
+12:18:19;   29011    1961  101  7.2 python3.10 04_nn.py
+12:18:20;   29011    1961  105  7.8 python3.10 04_nn.py
+12:18:21;   29011    1961  105  8.3 python3.10 04_nn.py
+12:18:23;   29011    1961  106  9.1 python3.10 04_nn.py
+12:18:24;   29011    1961  106  9.6 python3.10 04_nn.py
+12:18:25;   29011    1961  100 13.4 python3.10 04_nn.py
+12:18:26;   29011    1961 93.7 14.6 python3.10 04_nn.py
+12:18:27;   29011    1961 90.6 21.2 python3.10 04_nn.py
+12:18:28;   29011    1961 85.2 22.4 python3.10 04_nn.py
+12:18:29;   29011    1961 85.4 24.5 python3.10 04_nn.py
+12:18:30;   29011    1961 86.8 31.6 python3.10 04_nn.py
+12:18:31;   29011    1961 88.0 42.3 python3.10 04_nn.py
+12:18:32;   29011    1961 89.5 36.0 python3.10 04_nn.py
+12:18:33;   29011    1961 89.3 36.1 python3.10 04_nn.py
+12:18:34;   29011    1961 93.3 36.2 python3.10 04_nn.py
+12:18:35;   29011    1961 97.2 36.2 python3.10 04_nn.py
+12:18:36;   29011    1961  100 36.2 python3.10 04_nn.py
+12:18:38;   29011    1961  103 36.2 python3.10 04_nn.py
+12:18:39;   29011    1961  106 36.2 python3.10 04_nn.py
+12:18:40;   29011    1961  109 36.2 python3.10 04_nn.py
+12:18:41;   29011    1961  111 36.2 python3.10 04_nn.py
+12:18:42;   29011    1961  114 36.2 python3.10 04_nn.py
+12:18:43;   29011    1961  116 36.2 python3.10 04_nn.py
+12:18:44;   29011    1961  118 36.2 python3.10 04_nn.py
+12:18:45;   29011    1961  120 36.2 python3.10 04_nn.py
+12:18:46;   29011    1961  118 36.2 python3.10 04_nn.py
+12:18:47;   29011    1961  120 36.2 python3.10 04_nn.py
+12:18:48;   29011    1961  121 36.2 python3.10 04_nn.py
+12:18:49;   29011    1961  123 36.2 python3.10 04_nn.py
+12:18:51;   29011    1961  124 36.2 python3.10 04_nn.py
+12:18:52;   29011    1961  125 36.2 python3.10 04_nn.py
+12:18:53;   29011    1961  124 36.3 python3.10 04_nn.py
+12:18:54;   29011    1961  124 36.3 python3.10 04_nn.py
+12:18:55;   29011    1961  122 36.6 python3.10 04_nn.py
+12:18:56;   29011    1961  119 36.6 python3.10 04_nn.py
+12:18:57;   29011    1961  116 36.6 python3.10 04_nn.py
+12:18:58;   29011    1961  114 36.6 python3.10 04_nn.py
+12:18:59;   29011    1961  111 36.6 python3.10 04_nn.py
+12:19:00;   29011    1961  109 36.6 python3.10 04_nn.py
+12:19:01;   29011    1961  104 36.6 python3.10 04_nn.py
+12:19:02;   29011    1961  102 36.6 python3.10 04_nn.py
+12:19:03;   29011    1961  100 36.6 python3.10 04_nn.py
+12:19:04;   29011    1961 98.8 36.7 python3.10 04_nn.py
+12:19:06;   29011    1961 99.0 37.0 python3.10 04_nn.py
+12:19:07;   29011    1961 99.1 46.0 python3.10 04_nn.py
+12:19:08;   29011    1961 99.3 40.0 python3.10 04_nn.py
+12:19:09;   29011    1961 99.4 47.1 python3.10 04_nn.py
+12:19:10;   29011    1961 99.6 59.3 python3.10 04_nn.py
+12:19:11;   29011    1961  100 50.2 python3.10 04_nn.py
+12:19:12;   29011    1961  101 50.2 python3.10 04_nn.py
+12:19:13;   29011    1961  102 50.2 python3.10 04_nn.py
+12:19:14;   29011    1961  104 50.2 python3.10 04_nn.py
+12:19:15;   29011    1961  103 50.2 python3.10 04_nn.py
+12:19:16;   29011    1961  104 50.2 python3.10 04_nn.py
+12:19:17;   29011    1961  105 50.3 python3.10 04_nn.py
+12:19:19;   29011    1961  106 50.3 python3.10 04_nn.py
+12:19:20;   29011    1961  107 50.3 python3.10 04_nn.py
+12:19:21;   29011    1961  109 50.3 python3.10 04_nn.py
+12:19:22;   29011    1961  110 50.3 python3.10 04_nn.py
+12:19:23;   29011    1961  111 50.3 python3.10 04_nn.py
+12:19:24;   29011    1961  111 50.3 python3.10 04_nn.py
+12:19:25;   29011    1961  112 50.3 python3.10 04_nn.py
+12:19:26;   29011    1961  113 50.3 python3.10 04_nn.py
+12:19:27;   29011    1961  114 50.3 python3.10 04_nn.py
+12:19:28;   29011    1961  114 50.3 python3.10 04_nn.py
+12:19:29;   29011    1961  114 50.3 python3.10 04_nn.py
+12:19:30;   29011    1961  114 37.3 python3.10 04_nn.py
+12:19:31;   29011    1961  114 37.3 python3.10 04_nn.py
+12:19:33;   29011    1961  114 37.3 python3.10 04_nn.py
+12:19:34;   29011    1961  113 37.3 python3.10 04_nn.py
+12:19:35;   29011    1961  111 37.3 python3.10 04_nn.py
+12:19:36;   29011    1961  110 37.3 python3.10 04_nn.py
+12:19:37;   29011    1961  108 37.3 python3.10 04_nn.py
+12:19:38;   29011    1961  107 37.3 python3.10 04_nn.py
+12:19:39;   29011    1961  106 37.3 python3.10 04_nn.py
+12:19:40;   29011    1961  105 37.3 python3.10 04_nn.py
+12:19:41;   29011    1961  103 37.3 python3.10 04_nn.py
+12:19:42;   29011    1961  102 37.3 python3.10 04_nn.py
+12:19:43;   29011    1961  101 37.3 python3.10 04_nn.py
+12:19:44;   29011    1961  101 42.8 python3.10 04_nn.py
+12:19:45;   29011    1961  100 44.0 python3.10 04_nn.py
+12:19:46;   29011    1961 99.4 45.2 python3.10 04_nn.py
+12:19:48;   29011    1961 99.4 37.3 python3.10 04_nn.py
+12:19:49;   29011    1961 99.5 43.9 python3.10 04_nn.py
+12:19:50;   29011    1961 99.6 51.8 python3.10 04_nn.py
+12:19:51;   29011    1961 99.6 50.3 python3.10 04_nn.py
+12:19:52;   29011    1961  100 50.4 python3.10 04_nn.py
+12:19:53;   29011    1961  101 50.4 python3.10 04_nn.py
+12:19:54;   29011    1961  101 50.4 python3.10 04_nn.py
+12:19:55;   29011    1961  102 50.4 python3.10 04_nn.py
+12:19:56;   29011    1961  103 50.4 python3.10 04_nn.py
+12:19:57;   29011    1961  103 50.4 python3.10 04_nn.py
+12:19:58;   29011    1961  103 50.4 python3.10 04_nn.py
+12:19:59;   29011    1961  104 50.4 python3.10 04_nn.py
+12:20:01;   29011    1961  105 50.4 python3.10 04_nn.py
+12:20:02;   29011    1961  105 50.4 python3.10 04_nn.py
+12:20:03;   29011    1961  106 50.4 python3.10 04_nn.py
+12:20:04;   29011    1961  107 50.4 python3.10 04_nn.py
+12:20:05;   29011    1961  107 50.4 python3.10 04_nn.py
+12:20:06;   29011    1961  108 50.4 python3.10 04_nn.py
+12:20:07;   29011    1961  109 50.4 python3.10 04_nn.py
+12:20:08;   29011    1961  109 50.4 python3.10 04_nn.py
+12:20:09;   29011    1961  110 50.4 python3.10 04_nn.py
+12:20:10;   29011    1961  109 50.4 python3.10 04_nn.py
+12:20:11;   29011    1961  109 50.4 python3.10 04_nn.py
+12:20:12;   29011    1961  109 50.4 python3.10 04_nn.py
+12:20:13;   29011    1961  108 50.4 python3.10 04_nn.py
+12:20:15;   29011    1961  107 50.4 python3.10 04_nn.py
+12:20:16;   29011    1961  106 50.4 python3.10 04_nn.py
+12:20:17;   29011    1961  106 50.4 python3.10 04_nn.py
+12:20:18;   29011    1961  105 50.4 python3.10 04_nn.py
+12:20:19;   29011    1961  104 50.4 python3.10 04_nn.py
+12:20:20;   29011    1961  103 50.4 python3.10 04_nn.py
+12:20:21;   29011    1961  102 50.4 python3.10 04_nn.py
+12:20:22;   29011    1961  101 50.4 python3.10 04_nn.py
+12:20:23;   29011    1961  101 50.4 python3.10 04_nn.py
+12:20:24;   29011    1961  100 50.4 python3.10 04_nn.py
+12:20:25;   29011    1961 98.8 50.4 python3.10 04_nn.py
+12:20:26;   29011    1961 98.0 50.4 python3.10 04_nn.py
+12:20:27;   29011    1961 97.3 50.4 python3.10 04_nn.py
+12:20:28;   29011    1961 96.6 50.4 python3.10 04_nn.py
+12:20:30;   29011    1961 95.9 50.4 python3.10 04_nn.py
+12:20:31;   29011    1961 95.2 50.4 python3.10 04_nn.py
+12:20:32;   29011    1961 94.5 50.4 python3.10 04_nn.py
+12:20:33;   29011    1961 93.8 50.4 python3.10 04_nn.py
+12:20:34;   29011    1961 93.1 50.4 python3.10 04_nn.py
+12:20:35;   29011    1961 92.5 50.4 python3.10 04_nn.py
+12:20:36;   29011    1961 91.8 50.4 python3.10 04_nn.py
+12:20:37;   29011    1961 91.2 50.4 python3.10 04_nn.py
+12:20:38;   29011    1961 90.5 50.4 python3.10 04_nn.py
+12:20:39;   29011    1961 89.9 50.4 python3.10 04_nn.py
+12:20:40;   29011    1961 88.7 50.4 python3.10 04_nn.py
+12:20:41;   29011    1961 88.1 50.4 python3.10 04_nn.py
+12:20:42;   29011    1961 87.9 11.5 python3.10 04_nn.py
+12:20:43;   29011    1961 88.0 11.5 python3.10 04_nn.py
+12:20:45; python3.10 04_nn.py is not running
+12:20:46; python3.10 04_nn.py is not running
+12:20:47; python3.10 04_nn.py is not running
+12:20:48; python3.10 04_nn.py is not running
+12:20:49; python3.10 04_nn.py is not running
+12:20:50; python3.10 04_nn.py is not running
+12:20:51; python3.10 04_nn.py is not running
+12:20:52; python3.10 04_nn.py is not running
+12:20:53; python3.10 04_nn.py is not running
+12:20:54; python3.10 04_nn.py is not running
+12:20:55; python3.10 04_nn.py is not running
+12:20:56; python3.10 04_nn.py is not running
+12:20:57; python3.10 04_nn.py is not running
+12:20:58; python3.10 04_nn.py is not running
+12:20:59; python3.10 04_nn.py is not running
+12:21:00; python3.10 04_nn.py is not running
+12:21:01; python3.10 04_nn.py is not running
+12:21:02; python3.10 04_nn.py is not running
+12:21:03; python3.10 04_nn.py is not running
+12:21:04; python3.10 04_nn.py is not running
+12:21:06; python3.10 04_nn.py is not running
+12:21:07; python3.10 04_nn.py is not running
+12:21:08; python3.10 04_nn.py is not running
+12:21:09; python3.10 04_nn.py is not running
+12:21:10; python3.10 04_nn.py is not running
+12:21:11; python3.10 04_nn.py is not running
+12:21:12; python3.10 04_nn.py is not running
+12:21:13; python3.10 04_nn.py is not running
+12:21:14; python3.10 04_nn.py is not running
+12:21:15; python3.10 04_nn.py is not running
+12:21:16; python3.10 04_nn.py is not running
+12:21:17; python3.10 04_nn.py is not running
+12:21:18; python3.10 04_nn.py is not running
+12:21:19; python3.10 04_nn.py is not running
+12:21:20; python3.10 04_nn.py is not running
+12:21:21; python3.10 04_nn.py is not running
+12:21:22; python3.10 04_nn.py is not running
+12:21:23; python3.10 04_nn.py is not running
+12:21:24; python3.10 04_nn.py is not running
+12:21:25; python3.10 04_nn.py is not running
+12:21:26; python3.10 04_nn.py is not running
+12:21:27; python3.10 04_nn.py is not running
+12:21:29; python3.10 04_nn.py is not running
+12:21:30; python3.10 04_nn.py is not running
+12:21:31; python3.10 04_nn.py is not running
+12:21:32; python3.10 04_nn.py is not running
+12:21:33;   30625    1961  0.0  0.3 python3.10 04_nn.py
+12:21:34;   30625    1961  111  1.2 python3.10 04_nn.py
+12:21:35;   30625    1961 96.0  1.6 python3.10 04_nn.py
+12:21:36;   30625    1961 94.6  5.1 python3.10 04_nn.py
+12:21:37;   30625    1961 92.0  5.6 python3.10 04_nn.py
+12:21:38;   30625    1961 89.4  6.0 python3.10 04_nn.py
+12:21:39;   30625    1961 88.1  6.4 python3.10 04_nn.py
+12:21:40;   30625    1961 86.8  6.8 python3.10 04_nn.py
+12:21:41;   30625    1961 79.5  7.5 python3.10 04_nn.py
+12:21:42;   30625    1961 79.3  7.8 python3.10 04_nn.py
+12:21:43;   30625    1961 78.9  8.2 python3.10 04_nn.py
+12:21:44;   30625    1961 79.2  8.5 python3.10 04_nn.py
+12:21:46;   30625    1961 80.6  9.1 python3.10 04_nn.py
+12:21:47;   30625    1961 81.2  9.6 python3.10 04_nn.py
+12:21:48;   30625    1961 80.0 17.8 python3.10 04_nn.py
+12:21:49;   30625    1961 76.0 19.0 python3.10 04_nn.py
+12:21:50;   30625    1961 74.5 22.6 python3.10 04_nn.py
+12:21:51;   30625    1961 76.5 27.2 python3.10 04_nn.py
+12:21:52;   30625    1961 78.1 34.3 python3.10 04_nn.py
+12:21:53;   30625    1961 79.6 48.2 python3.10 04_nn.py
+12:21:54;   30625    1961 82.5 36.0 python3.10 04_nn.py
+12:21:55;   30625    1961 86.6 36.1 python3.10 04_nn.py
+12:21:56;   30625    1961 86.7 36.1 python3.10 04_nn.py
+12:21:57;   30625    1961 90.3 36.1 python3.10 04_nn.py
+12:21:58;   30625    1961 93.6 36.1 python3.10 04_nn.py
+12:22:00;   30625    1961 96.7 36.1 python3.10 04_nn.py
+12:22:01;   30625    1961 99.5 36.1 python3.10 04_nn.py
+12:22:02;   30625    1961  101 36.1 python3.10 04_nn.py
+12:22:03;   30625    1961  104 36.1 python3.10 04_nn.py
+12:22:04;   30625    1961  106 36.1 python3.10 04_nn.py
+12:22:05;   30625    1961  108 36.1 python3.10 04_nn.py
+12:22:06;   30625    1961  111 36.1 python3.10 04_nn.py
+12:22:07;   30625    1961  113 36.1 python3.10 04_nn.py
+12:22:08;   30625    1961  115 36.1 python3.10 04_nn.py
+12:22:09;   30625    1961  113 36.1 python3.10 04_nn.py
+12:22:10;   30625    1961  115 36.1 python3.10 04_nn.py
+12:22:11;   30625    1961  117 36.1 python3.10 04_nn.py
+12:22:13;   30625    1961  118 36.1 python3.10 04_nn.py
+12:22:14;   30625    1961  118 36.2 python3.10 04_nn.py
+12:22:15;   30625    1961  118 36.2 python3.10 04_nn.py
+12:22:16;   30625    1961  117 36.5 python3.10 04_nn.py
+12:22:17;   30625    1961  115 36.5 python3.10 04_nn.py
+12:22:18;   30625    1961  112 36.5 python3.10 04_nn.py
+12:22:19;   30625    1961  110 36.5 python3.10 04_nn.py
+12:22:20;   30625    1961  107 36.5 python3.10 04_nn.py
+12:22:21;   30625    1961  105 36.5 python3.10 04_nn.py
+12:22:22;   30625    1961  103 36.5 python3.10 04_nn.py
+12:22:23;   30625    1961 99.2 36.5 python3.10 04_nn.py
+12:22:24;   30625    1961 97.3 36.5 python3.10 04_nn.py
+12:22:25;   30625    1961 95.4 36.5 python3.10 04_nn.py
+12:22:26;   30625    1961 95.1 36.6 python3.10 04_nn.py
+12:22:28;   30625    1961 95.3 43.4 python3.10 04_nn.py
+12:22:29;   30625    1961 95.5 37.0 python3.10 04_nn.py
+12:22:30;   30625    1961 95.7 43.4 python3.10 04_nn.py
+12:22:31;   30625    1961 96.0 51.1 python3.10 04_nn.py
+12:22:32;   30625    1961 96.2 50.0 python3.10 04_nn.py
+12:22:33;   30625    1961 97.4 50.1 python3.10 04_nn.py
+12:22:34;   30625    1961 98.7 50.1 python3.10 04_nn.py
+12:22:35;   30625    1961  100 50.1 python3.10 04_nn.py
+12:22:36;   30625    1961  101 50.1 python3.10 04_nn.py
+12:22:37;   30625    1961  100 50.1 python3.10 04_nn.py
+12:22:38;   30625    1961  101 50.1 python3.10 04_nn.py
+12:22:39;   30625    1961  103 50.1 python3.10 04_nn.py
+12:22:41;   30625    1961  104 50.1 python3.10 04_nn.py
+12:22:42;   30625    1961  105 50.1 python3.10 04_nn.py
+12:22:43;   30625    1961  106 50.2 python3.10 04_nn.py
+12:22:44;   30625    1961  107 50.2 python3.10 04_nn.py
+12:22:45;   30625    1961  108 50.2 python3.10 04_nn.py
+12:22:46;   30625    1961  109 50.2 python3.10 04_nn.py
+12:22:47;   30625    1961  110 50.2 python3.10 04_nn.py
+12:22:48;   30625    1961  111 50.2 python3.10 04_nn.py
+12:22:49;   30625    1961  111 50.2 python3.10 04_nn.py
+12:22:50;   30625    1961  111 50.2 python3.10 04_nn.py
+12:22:51;   30625    1961  111 50.2 python3.10 04_nn.py
+12:22:52;   30625    1961  111 37.2 python3.10 04_nn.py
+12:22:54;   30625    1961  111 37.2 python3.10 04_nn.py
+12:22:55;   30625    1961  110 37.2 python3.10 04_nn.py
+12:22:56;   30625    1961  109 37.2 python3.10 04_nn.py
+12:22:57;   30625    1961  108 37.2 python3.10 04_nn.py
+12:22:58;   30625    1961  106 37.2 python3.10 04_nn.py
+12:22:59;   30625    1961  105 37.2 python3.10 04_nn.py
+12:23:00;   30625    1961  104 37.2 python3.10 04_nn.py
+12:23:01;   30625    1961  103 37.2 python3.10 04_nn.py
+12:23:02;   30625    1961  102 37.2 python3.10 04_nn.py
+12:23:03;   30625    1961  101 37.2 python3.10 04_nn.py
+12:23:04;   30625    1961 99.9 37.2 python3.10 04_nn.py
+12:23:05;   30625    1961 97.7 37.2 python3.10 04_nn.py
+12:23:06;   30625    1961 96.7 37.2 python3.10 04_nn.py
+12:23:07;   30625    1961 95.7 37.2 python3.10 04_nn.py
+12:23:08;   30625    1961 94.7 37.2 python3.10 04_nn.py
+12:23:10;   30625    1961 93.7 37.2 python3.10 04_nn.py
+12:23:11;   30625    1961 92.7 37.2 python3.10 04_nn.py
+12:23:12;   30625    1961 91.8 37.2 python3.10 04_nn.py
+12:23:13;   30625    1961 90.9 37.2 python3.10 04_nn.py
+12:23:14;   30625    1961 90.0 37.2 python3.10 04_nn.py
+12:23:15;   30625    1961 89.1 37.2 python3.10 04_nn.py
+12:23:16;   30625    1961 88.2 37.2 python3.10 04_nn.py
+12:23:17;   30625    1961 87.4 37.2 python3.10 04_nn.py
+12:23:18;   30625    1961 86.5 37.2 python3.10 04_nn.py
+12:23:19;   30625    1961 85.7 37.2 python3.10 04_nn.py
+12:23:20;   30625    1961 84.1 37.2 python3.10 04_nn.py
+12:23:21;   30625    1961 83.4 37.2 python3.10 04_nn.py
+12:23:22;   30625    1961 82.6 37.2 python3.10 04_nn.py
+12:23:23;   30625    1961 82.3 37.2 python3.10 04_nn.py
+12:23:25;   30625    1961 82.4 38.0 python3.10 04_nn.py
+12:23:26;   30625    1961 81.8 39.2 python3.10 04_nn.py
+12:23:27;   30625    1961 81.2 40.4 python3.10 04_nn.py
+12:23:28;   30625    1961 81.0 47.8 python3.10 04_nn.py
+12:23:29;   30625    1961 80.9 37.3 python3.10 04_nn.py
+12:23:30;   30625    1961 81.1 43.0 python3.10 04_nn.py
+12:23:31;   30625    1961 81.3 50.1 python3.10 04_nn.py
+12:23:32;   30625    1961 81.6 50.3 python3.10 04_nn.py
+12:23:33;   30625    1961 82.2 50.3 python3.10 04_nn.py
+12:23:34;   30625    1961 83.0 50.3 python3.10 04_nn.py
+12:23:35;   30625    1961 83.1 50.3 python3.10 04_nn.py
+12:23:36;   30625    1961 83.9 50.3 python3.10 04_nn.py
+12:23:37;   30625    1961 84.6 50.3 python3.10 04_nn.py
+12:23:38;   30625    1961 85.4 50.4 python3.10 04_nn.py
+12:23:40;   30625    1961 86.1 50.4 python3.10 04_nn.py
+12:23:41;   30625    1961 86.8 50.4 python3.10 04_nn.py
+12:23:42;   30625    1961 87.6 50.4 python3.10 04_nn.py
+12:23:43;   30625    1961 88.2 50.4 python3.10 04_nn.py
+12:23:44;   30625    1961 88.9 50.4 python3.10 04_nn.py
+12:23:45;   30625    1961 89.6 50.4 python3.10 04_nn.py
+12:23:46;   30625    1961 90.3 50.4 python3.10 04_nn.py
+12:23:47;   30625    1961 90.9 50.4 python3.10 04_nn.py
+12:23:48;   30625    1961 90.9 50.4 python3.10 04_nn.py
+12:23:49;   30625    1961 91.5 50.4 python3.10 04_nn.py
+12:23:50;   30625    1961 92.1 50.4 python3.10 04_nn.py
+12:23:51;   30625    1961 92.6 50.4 python3.10 04_nn.py
+12:23:53;   30625    1961 92.8 50.4 python3.10 04_nn.py
+12:23:54;   30625    1961 92.9 50.4 python3.10 04_nn.py
+12:23:55;   30625    1961 92.2 50.4 python3.10 04_nn.py
+12:23:56;   30625    1961 91.6 50.4 python3.10 04_nn.py
+12:23:57;   30625    1961 90.9 50.4 python3.10 04_nn.py
+12:23:58;   30625    1961 90.3 50.4 python3.10 04_nn.py
+12:23:59;   30625    1961 89.7 50.4 python3.10 04_nn.py
+12:24:00;   30625    1961 89.1 50.4 python3.10 04_nn.py
+12:24:01;   30625    1961 88.5 50.4 python3.10 04_nn.py
+12:24:02;   30625    1961 87.9 50.4 python3.10 04_nn.py
+12:24:03;   30625    1961 86.7 50.4 python3.10 04_nn.py
+12:24:04;   30625    1961 86.6 11.5 python3.10 04_nn.py
+12:24:05;   30625    1961 86.7 11.4 python3.10 04_nn.py
+12:24:06; python3.10 04_nn.py is not running
+12:24:08; python3.10 04_nn.py is not running
+12:24:09; python3.10 04_nn.py is not running
+12:24:10; python3.10 04_nn.py is not running
+12:24:11; python3.10 04_nn.py is not running
+12:24:12; python3.10 04_nn.py is not running
+12:24:13; python3.10 04_nn.py is not running
+12:24:14; python3.10 04_nn.py is not running
+12:24:15; python3.10 04_nn.py is not running
+12:24:16; python3.10 04_nn.py is not running
+12:24:17; python3.10 04_nn.py is not running
+12:24:18; python3.10 04_nn.py is not running
+12:24:19; python3.10 04_nn.py is not running
+12:24:20; python3.10 04_nn.py is not running
+12:24:21; python3.10 04_nn.py is not running
+12:24:22;   32054    1961  0.0  1.2 python3.10 04_nn.py
+12:24:23;   32054    1961  108  3.3 python3.10 04_nn.py
+12:24:24;   32054    1961  107  5.5 python3.10 04_nn.py
+12:24:25;   32054    1961  107  6.1 python3.10 04_nn.py
+12:24:26;   32054    1961  107  6.7 python3.10 04_nn.py
+12:24:28;   32054    1961  111  7.5 python3.10 04_nn.py
+12:24:29;   32054    1961  110  8.1 python3.10 04_nn.py
+12:24:30;   32054    1961  110  8.5 python3.10 04_nn.py
+12:24:31;   32054    1961  110  9.1 python3.10 04_nn.py
+12:24:32;   32054    1961  109 12.8 python3.10 04_nn.py
+12:24:33;   32054    1961  101 14.3 python3.10 04_nn.py
+12:24:34;   32054    1961 96.0 18.3 python3.10 04_nn.py
+12:24:35;   32054    1961 90.9 21.6 python3.10 04_nn.py
+12:24:36;   32054    1961 86.5 23.5 python3.10 04_nn.py
+12:24:37;   32054    1961 87.9 26.6 python3.10 04_nn.py
+12:24:38;   32054    1961 83.8 33.7 python3.10 04_nn.py
+12:24:39;   32054    1961 85.2 47.0 python3.10 04_nn.py
+12:24:40;   32054    1961 88.0 36.1 python3.10 04_nn.py
+12:24:41;   32054    1961 92.5 36.2 python3.10 04_nn.py
+12:24:43;   32054    1961 96.4 36.2 python3.10 04_nn.py
+12:24:44;   32054    1961  100 36.2 python3.10 04_nn.py
+12:24:45;   32054    1961  103 36.2 python3.10 04_nn.py
+12:24:46;   32054    1961  106 36.2 python3.10 04_nn.py
+12:24:47;   32054    1961  109 36.2 python3.10 04_nn.py
+12:24:48;   32054    1961  111 36.2 python3.10 04_nn.py
+12:24:49;   32054    1961  114 36.2 python3.10 04_nn.py
+12:24:50;   32054    1961  116 36.2 python3.10 04_nn.py
+12:24:51;   32054    1961  114 36.2 python3.10 04_nn.py
+12:24:52;   32054    1961  116 36.2 python3.10 04_nn.py
+12:24:53;   32054    1961  118 36.2 python3.10 04_nn.py
+12:24:54;   32054    1961  120 36.2 python3.10 04_nn.py
+12:24:56;   32054    1961  122 36.2 python3.10 04_nn.py
+12:24:57;   32054    1961  123 36.2 python3.10 04_nn.py
+12:24:58;   32054    1961  125 36.2 python3.10 04_nn.py
+12:24:59;   32054    1961  126 36.2 python3.10 04_nn.py
+12:25:00;   32054    1961  126 36.3 python3.10 04_nn.py
+12:25:01;   32054    1961  125 36.3 python3.10 04_nn.py
+12:25:02;   32054    1961  125 36.5 python3.10 04_nn.py
+12:25:03;   32054    1961  122 36.6 python3.10 04_nn.py
+12:25:04;   32054    1961  119 36.6 python3.10 04_nn.py
+12:25:05;   32054    1961  114 36.6 python3.10 04_nn.py
+12:25:06;   32054    1961  111 36.6 python3.10 04_nn.py
+12:25:07;   32054    1961  109 36.6 python3.10 04_nn.py
+12:25:08;   32054    1961  107 36.6 python3.10 04_nn.py
+12:25:10;   32054    1961  104 36.6 python3.10 04_nn.py
+12:25:11;   32054    1961  102 36.6 python3.10 04_nn.py
+12:25:12;   32054    1961  100 36.6 python3.10 04_nn.py
+12:25:13;   32054    1961 98.7 36.6 python3.10 04_nn.py
+12:25:14;   32054    1961 96.8 36.6 python3.10 04_nn.py
+12:25:15;   32054    1961 95.0 36.6 python3.10 04_nn.py
+12:25:16;   32054    1961 93.2 36.6 python3.10 04_nn.py
+12:25:17;   32054    1961 91.5 36.6 python3.10 04_nn.py
+12:25:18;   32054    1961 89.9 36.6 python3.10 04_nn.py
+12:25:19;   32054    1961 86.8 36.6 python3.10 04_nn.py
+12:25:20;   32054    1961 85.3 36.6 python3.10 04_nn.py
+12:25:21;   32054    1961 83.9 36.6 python3.10 04_nn.py
+12:25:22;   32054    1961 82.5 36.6 python3.10 04_nn.py
+12:25:24;   32054    1961 81.2 36.6 python3.10 04_nn.py
+12:25:25;   32054    1961 79.9 36.6 python3.10 04_nn.py
+12:25:26;   32054    1961 78.6 36.6 python3.10 04_nn.py
+12:25:27;   32054    1961 77.4 36.6 python3.10 04_nn.py
+12:25:28;   32054    1961 76.2 36.6 python3.10 04_nn.py
+12:25:29;   32054    1961 75.1 36.6 python3.10 04_nn.py
+12:25:30;   32054    1961 74.0 36.6 python3.10 04_nn.py
+12:25:31;   32054    1961 73.2 36.8 python3.10 04_nn.py
+12:25:32;   32054    1961 73.7 37.1 python3.10 04_nn.py
+12:25:33;   32054    1961 72.5 43.3 python3.10 04_nn.py
+12:25:34;   32054    1961 72.9 37.1 python3.10 04_nn.py
+12:25:35;   32054    1961 73.4 43.0 python3.10 04_nn.py
+12:25:36;   32054    1961 73.8 50.1 python3.10 04_nn.py
+12:25:38;   32054    1961 74.2 50.1 python3.10 04_nn.py
+12:25:39;   32054    1961 75.4 50.2 python3.10 04_nn.py
+12:25:40;   32054    1961 76.7 50.2 python3.10 04_nn.py
+12:25:41;   32054    1961 78.0 50.2 python3.10 04_nn.py
+12:25:42;   32054    1961 79.2 50.2 python3.10 04_nn.py
+12:25:43;   32054    1961 80.5 50.2 python3.10 04_nn.py
+12:25:44;   32054    1961 81.6 50.2 python3.10 04_nn.py
+12:25:45;   32054    1961 82.8 50.2 python3.10 04_nn.py
+12:25:46;   32054    1961 83.9 50.3 python3.10 04_nn.py
+12:25:47;   32054    1961 84.0 50.3 python3.10 04_nn.py
+12:25:48;   32054    1961 85.1 50.3 python3.10 04_nn.py
+12:25:49;   32054    1961 86.1 50.3 python3.10 04_nn.py
+12:25:51;   32054    1961 87.2 50.3 python3.10 04_nn.py
+12:25:52;   32054    1961 88.2 50.3 python3.10 04_nn.py
+12:25:53;   32054    1961 89.1 50.3 python3.10 04_nn.py
+12:25:54;   32054    1961 90.1 50.3 python3.10 04_nn.py
+12:25:55;   32054    1961 91.0 50.3 python3.10 04_nn.py
+12:25:56;   32054    1961 91.9 50.3 python3.10 04_nn.py
+12:25:57;   32054    1961 92.7 50.3 python3.10 04_nn.py
+12:25:58;   32054    1961 92.9 37.3 python3.10 04_nn.py
+12:25:59;   32054    1961 93.0 37.3 python3.10 04_nn.py
+12:26:00;   32054    1961 92.6 37.3 python3.10 04_nn.py
+12:26:01;   32054    1961 90.7 37.3 python3.10 04_nn.py
+12:26:02;   32054    1961 89.8 37.3 python3.10 04_nn.py
+12:26:03;   32054    1961 88.9 37.3 python3.10 04_nn.py
+12:26:04;   32054    1961 88.1 37.3 python3.10 04_nn.py
+12:26:06;   32054    1961 87.2 37.3 python3.10 04_nn.py
+12:26:07;   32054    1961 86.4 37.3 python3.10 04_nn.py
+12:26:08;   32054    1961 85.6 37.3 python3.10 04_nn.py
+12:26:09;   32054    1961 84.8 37.3 python3.10 04_nn.py
+12:26:10;   32054    1961 84.2 37.3 python3.10 04_nn.py
+12:26:11;   32054    1961 84.3 37.5 python3.10 04_nn.py
+12:26:12;   32054    1961 84.1 43.9 python3.10 04_nn.py
+12:26:13;   32054    1961 83.5 45.2 python3.10 04_nn.py
+12:26:14;   32054    1961 83.6 37.4 python3.10 04_nn.py
+12:26:15;   32054    1961 83.1 43.1 python3.10 04_nn.py
+12:26:16;   32054    1961 83.3 50.1 python3.10 04_nn.py
+12:26:17;   32054    1961 83.5 51.4 python3.10 04_nn.py
+12:26:18;   32054    1961 84.1 50.5 python3.10 04_nn.py
+12:26:20;   32054    1961 84.9 50.5 python3.10 04_nn.py
+12:26:21;   32054    1961 85.7 50.5 python3.10 04_nn.py
+12:26:22;   32054    1961 86.5 50.5 python3.10 04_nn.py
+12:26:23;   32054    1961 87.2 50.5 python3.10 04_nn.py
+12:26:24;   32054    1961 87.9 50.5 python3.10 04_nn.py
+12:26:25;   32054    1961 88.7 50.5 python3.10 04_nn.py
+12:26:26;   32054    1961 89.4 50.5 python3.10 04_nn.py
+12:26:27;   32054    1961 90.1 50.5 python3.10 04_nn.py
+12:26:28;   32054    1961 90.1 50.5 python3.10 04_nn.py
+12:26:29;   32054    1961 90.8 50.5 python3.10 04_nn.py
+12:26:30;   32054    1961 91.5 50.5 python3.10 04_nn.py
+12:26:32;   32054    1961 92.1 50.5 python3.10 04_nn.py
+12:26:33;   32054    1961 92.8 50.5 python3.10 04_nn.py
+12:26:34;   32054    1961 93.5 50.5 python3.10 04_nn.py
+12:26:35;   32054    1961 94.1 50.5 python3.10 04_nn.py
+12:26:36;   32054    1961 94.7 50.5 python3.10 04_nn.py
+12:26:37;   32054    1961 95.2 50.6 python3.10 04_nn.py
+12:26:38;   32054    1961 95.3 50.6 python3.10 04_nn.py
+12:26:39;   32054    1961 95.4 50.6 python3.10 04_nn.py
+12:26:40;   32054    1961 94.8 50.6 python3.10 04_nn.py
+12:26:41;   32054    1961 94.1 50.6 python3.10 04_nn.py
+12:26:42;   32054    1961 92.7 50.6 python3.10 04_nn.py
+12:26:43;   32054    1961 92.1 50.6 python3.10 04_nn.py
+12:26:44;   32054    1961 91.4 50.6 python3.10 04_nn.py
+12:26:45;   32054    1961 90.8 50.6 python3.10 04_nn.py
+12:26:47;   32054    1961 90.2 50.6 python3.10 04_nn.py
+12:26:48;   32054    1961 89.6 50.6 python3.10 04_nn.py
+12:26:49;   32054    1961 89.0 50.6 python3.10 04_nn.py
+12:26:50;   32054    1961 88.7 17.6 python3.10 04_nn.py
+12:26:51;   32054    1961 88.9 11.6 python3.10 04_nn.py
+12:26:52; python3.10 04_nn.py is not running
+12:26:53; python3.10 04_nn.py is not running
+12:26:54; python3.10 04_nn.py is not running
+12:26:55; python3.10 04_nn.py is not running
+12:26:56; python3.10 04_nn.py is not running
+12:26:57; python3.10 04_nn.py is not running
+12:26:58; python3.10 04_nn.py is not running
+12:26:59; python3.10 04_nn.py is not running
+12:27:00; python3.10 04_nn.py is not running
+12:27:01; python3.10 04_nn.py is not running
+12:27:02; python3.10 04_nn.py is not running
+12:27:03; python3.10 04_nn.py is not running
+12:27:04; python3.10 04_nn.py is not running
+12:27:05; python3.10 04_nn.py is not running
+12:27:06; python3.10 04_nn.py is not running
+12:27:08; python3.10 04_nn.py is not running
+12:27:09; python3.10 04_nn.py is not running
+12:27:10; python3.10 04_nn.py is not running
+12:27:11; python3.10 04_nn.py is not running
+12:27:12; python3.10 04_nn.py is not running
+12:27:13; python3.10 04_nn.py is not running
+12:27:14; python3.10 04_nn.py is not running
+12:27:15; python3.10 04_nn.py is not running
+12:27:16; python3.10 04_nn.py is not running
+12:27:17; python3.10 04_nn.py is not running
+12:27:18; python3.10 04_nn.py is not running
+12:27:19; python3.10 04_nn.py is not running
+12:27:20; python3.10 04_nn.py is not running
+12:27:21; python3.10 04_nn.py is not running
+12:27:22; python3.10 04_nn.py is not running
+12:27:23; python3.10 04_nn.py is not running
+12:27:24; python3.10 04_nn.py is not running
+12:27:25; python3.10 04_nn.py is not running
+12:27:26; python3.10 04_nn.py is not running
+12:27:27; python3.10 04_nn.py is not running
+12:27:28; python3.10 04_nn.py is not running
+12:27:30; python3.10 04_nn.py is not running
+12:27:31; python3.10 04_nn.py is not running
+12:27:32; python3.10 04_nn.py is not running
+12:27:33; python3.10 04_nn.py is not running
+12:27:34; python3.10 04_nn.py is not running
+12:27:35; python3.10 04_nn.py is not running
+12:27:36; python3.10 04_nn.py is not running
+12:27:37; python3.10 04_nn.py is not running
+12:27:38; python3.10 04_nn.py is not running
+12:27:39; python3.10 04_nn.py is not running
+12:27:40; python3.10 04_nn.py is not running
+12:27:41; python3.10 04_nn.py is not running
+12:27:42; python3.10 04_nn.py is not running
+12:27:43; python3.10 04_nn.py is not running
+12:27:44; python3.10 04_nn.py is not running
+12:27:45; python3.10 04_nn.py is not running
+12:27:46; python3.10 04_nn.py is not running
+12:27:47; python3.10 04_nn.py is not running
+12:27:48; python3.10 04_nn.py is not running
+12:27:49; python3.10 04_nn.py is not running
+12:27:50; python3.10 04_nn.py is not running
+12:27:51; python3.10 04_nn.py is not running
+12:27:52; python3.10 04_nn.py is not running
+12:27:54; python3.10 04_nn.py is not running
+12:27:55; python3.10 04_nn.py is not running
+12:27:56; python3.10 04_nn.py is not running
+12:27:57; python3.10 04_nn.py is not running
+12:27:58; python3.10 04_nn.py is not running
+12:27:59; python3.10 04_nn.py is not running
+12:28:00; python3.10 04_nn.py is not running
+12:28:01; python3.10 04_nn.py is not running
+12:28:02; python3.10 04_nn.py is not running
+12:28:03; python3.10 04_nn.py is not running
+12:28:04; python3.10 04_nn.py is not running
+12:28:05; python3.10 04_nn.py is not running
+12:28:06; python3.10 04_nn.py is not running
+12:28:07; python3.10 04_nn.py is not running
+12:28:08; python3.10 04_nn.py is not running
+12:28:09; python3.10 04_nn.py is not running
+12:28:10; python3.10 04_nn.py is not running
+12:28:11; python3.10 04_nn.py is not running
+12:28:12; python3.10 04_nn.py is not running
+12:28:13; python3.10 04_nn.py is not running
+12:28:14; python3.10 04_nn.py is not running
+12:28:15; python3.10 04_nn.py is not running
+12:28:17; python3.10 04_nn.py is not running
+12:28:18; python3.10 04_nn.py is not running
+12:28:19; python3.10 04_nn.py is not running
+12:28:20; python3.10 04_nn.py is not running
+12:28:21; python3.10 04_nn.py is not running
+12:28:22; python3.10 04_nn.py is not running
+12:28:23; python3.10 04_nn.py is not running
+12:28:24; python3.10 04_nn.py is not running
+12:28:25;   34027    1961 75.0  0.8 python3.10 04_nn.py
+12:28:26;   34027    1961 76.0  1.4 python3.10 04_nn.py
+12:28:27;   34027    1961 81.3  4.0 python3.10 04_nn.py
+12:28:28;   34027    1961 81.0  5.5 python3.10 04_nn.py
+12:28:29;   34027    1961 81.4  5.9 python3.10 04_nn.py
+12:28:30;   34027    1961 81.6  6.4 python3.10 04_nn.py
+12:28:31;   34027    1961 71.1  6.8 python3.10 04_nn.py
+12:28:32;   34027    1961 75.2  7.4 python3.10 04_nn.py
+12:28:33;   34027    1961 75.8  7.8 python3.10 04_nn.py
+12:28:35;   34027    1961 75.6  8.2 python3.10 04_nn.py
+12:28:36;   34027    1961 76.3  8.5 python3.10 04_nn.py
+12:28:37;   34027    1961 77.1  9.2 python3.10 04_nn.py
+12:28:38;   34027    1961 79.2  9.7 python3.10 04_nn.py
+12:28:39;   34027    1961 79.4 17.9 python3.10 04_nn.py
+12:28:40;   34027    1961 76.1 19.2 python3.10 04_nn.py
+12:28:41;   34027    1961 75.1 22.7 python3.10 04_nn.py
+12:28:42;   34027    1961 76.8 27.3 python3.10 04_nn.py
+12:28:43;   34027    1961 78.5 34.3 python3.10 04_nn.py
+12:28:44;   34027    1961 80.0 48.2 python3.10 04_nn.py
+12:28:45;   34027    1961 79.1 36.2 python3.10 04_nn.py
+12:28:46;   34027    1961 83.3 36.2 python3.10 04_nn.py
+12:28:47;   34027    1961 87.1 36.2 python3.10 04_nn.py
+12:28:49;   34027    1961 90.6 36.2 python3.10 04_nn.py
+12:28:50;   34027    1961 93.8 36.2 python3.10 04_nn.py
+12:28:51;   34027    1961 97.0 36.2 python3.10 04_nn.py
+12:28:52;   34027    1961 99.7 36.2 python3.10 04_nn.py
+12:28:53;   34027    1961  102 36.2 python3.10 04_nn.py
+12:28:54;   34027    1961  104 36.2 python3.10 04_nn.py
+12:28:55;   34027    1961  107 36.2 python3.10 04_nn.py
+12:28:56;   34027    1961  109 36.2 python3.10 04_nn.py
+12:28:57;   34027    1961  111 36.2 python3.10 04_nn.py
+12:28:58;   34027    1961  110 36.2 python3.10 04_nn.py
+12:28:59;   34027    1961  111 36.2 python3.10 04_nn.py
+12:29:00;   34027    1961  113 36.3 python3.10 04_nn.py
+12:29:02;   34027    1961  115 36.3 python3.10 04_nn.py
+12:29:03;   34027    1961  116 36.3 python3.10 04_nn.py
+12:29:04;   34027    1961  118 36.3 python3.10 04_nn.py
+12:29:05;   34027    1961  118 36.3 python3.10 04_nn.py
+12:29:06;   34027    1961  118 36.3 python3.10 04_nn.py
+12:29:07;   34027    1961  118 36.5 python3.10 04_nn.py
+12:29:08;   34027    1961  115 36.6 python3.10 04_nn.py
+12:29:09;   34027    1961  113 36.6 python3.10 04_nn.py
+12:29:10;   34027    1961  110 36.6 python3.10 04_nn.py
+12:29:11;   34027    1961  108 36.6 python3.10 04_nn.py
+12:29:12;   34027    1961  104 36.6 python3.10 04_nn.py
+12:29:13;   34027    1961  102 36.6 python3.10 04_nn.py
+12:29:14;   34027    1961  100 36.6 python3.10 04_nn.py
+12:29:16;   34027    1961 98.0 36.6 python3.10 04_nn.py
+12:29:17;   34027    1961 96.2 36.6 python3.10 04_nn.py
+12:29:18;   34027    1961 95.4 36.8 python3.10 04_nn.py
+12:29:19;   34027    1961 95.7 40.5 python3.10 04_nn.py
+12:29:20;   34027    1961 95.9 37.1 python3.10 04_nn.py
+12:29:21;   34027    1961 96.1 41.9 python3.10 04_nn.py
+12:29:22;   34027    1961 96.2 49.0 python3.10 04_nn.py
+12:29:23;   34027    1961 96.5 63.0 python3.10 04_nn.py
+12:29:24;   34027    1961 97.5 50.2 python3.10 04_nn.py
+12:29:25;   34027    1961 98.8 50.2 python3.10 04_nn.py
+12:29:26;   34027    1961 98.5 50.2 python3.10 04_nn.py
+12:29:27;   34027    1961 99.8 50.3 python3.10 04_nn.py
+12:29:28;   34027    1961  101 50.3 python3.10 04_nn.py
+12:29:30;   34027    1961  102 50.3 python3.10 04_nn.py
+12:29:31;   34027    1961  103 50.3 python3.10 04_nn.py
+12:29:32;   34027    1961  104 50.3 python3.10 04_nn.py
+12:29:33;   34027    1961  105 50.3 python3.10 04_nn.py
+12:29:34;   34027    1961  106 50.3 python3.10 04_nn.py
+12:29:35;   34027    1961  107 50.3 python3.10 04_nn.py
+12:29:36;   34027    1961  108 50.3 python3.10 04_nn.py
+12:29:37;   34027    1961  109 50.3 python3.10 04_nn.py
+12:29:38;   34027    1961  108 50.3 python3.10 04_nn.py
+12:29:39;   34027    1961  109 50.3 python3.10 04_nn.py
+12:29:40;   34027    1961  110 50.3 python3.10 04_nn.py
+12:29:41;   34027    1961  111 50.3 python3.10 04_nn.py
+12:29:43;   34027    1961  112 50.3 python3.10 04_nn.py
+12:29:44;   34027    1961  112 37.3 python3.10 04_nn.py
+12:29:45;   34027    1961  112 37.3 python3.10 04_nn.py
+12:29:46;   34027    1961  111 37.4 python3.10 04_nn.py
+12:29:47;   34027    1961  110 37.4 python3.10 04_nn.py
+12:29:48;   34027    1961  108 37.4 python3.10 04_nn.py
+12:29:49;   34027    1961  107 37.4 python3.10 04_nn.py
+12:29:50;   34027    1961  106 37.4 python3.10 04_nn.py
+12:29:51;   34027    1961  105 37.4 python3.10 04_nn.py
+12:29:52;   34027    1961  104 37.4 python3.10 04_nn.py
+12:29:53;   34027    1961  101 37.4 python3.10 04_nn.py
+12:29:54;   34027    1961  100 37.4 python3.10 04_nn.py
+12:29:55;   34027    1961 99.5 37.4 python3.10 04_nn.py
+12:29:56;   34027    1961 98.4 37.4 python3.10 04_nn.py
+12:29:58;   34027    1961 97.3 37.4 python3.10 04_nn.py
+12:29:59;   34027    1961 96.3 37.4 python3.10 04_nn.py
+12:30:00;   34027    1961 95.3 37.4 python3.10 04_nn.py
+12:30:01;   34027    1961 94.3 37.4 python3.10 04_nn.py
+12:30:02;   34027    1961 93.4 37.4 python3.10 04_nn.py
+12:30:03;   34027    1961 92.4 37.4 python3.10 04_nn.py
+12:30:04;   34027    1961 91.5 37.4 python3.10 04_nn.py
+12:30:05;   34027    1961 90.6 37.4 python3.10 04_nn.py
+12:30:06;   34027    1961 89.7 37.4 python3.10 04_nn.py
+12:30:07;   34027    1961 88.8 37.4 python3.10 04_nn.py
+12:30:08;   34027    1961 87.1 37.4 python3.10 04_nn.py
+12:30:09;   34027    1961 86.3 37.4 python3.10 04_nn.py
+12:30:10;   34027    1961 85.5 37.4 python3.10 04_nn.py
+12:30:12;   34027    1961 84.7 37.4 python3.10 04_nn.py
+12:30:13;   34027    1961 83.9 37.4 python3.10 04_nn.py
+12:30:14;   34027    1961 83.2 37.4 python3.10 04_nn.py
+12:30:15;   34027    1961 82.8 37.4 python3.10 04_nn.py
+12:30:16;   34027    1961 82.9 38.1 python3.10 04_nn.py
+12:30:17;   34027    1961 82.3 39.3 python3.10 04_nn.py
+12:30:18;   34027    1961 81.7 40.6 python3.10 04_nn.py
+12:30:19;   34027    1961 81.8 41.5 python3.10 04_nn.py
+12:30:20;   34027    1961 82.0 40.6 python3.10 04_nn.py
+12:30:21;   34027    1961 81.5 47.7 python3.10 04_nn.py
+12:30:22;   34027    1961 81.7 60.0 python3.10 04_nn.py
+12:30:23;   34027    1961 82.2 50.5 python3.10 04_nn.py
+12:30:25;   34027    1961 83.0 50.5 python3.10 04_nn.py
+12:30:26;   34027    1961 83.8 50.5 python3.10 04_nn.py
+12:30:27;   34027    1961 84.5 50.5 python3.10 04_nn.py
+12:30:28;   34027    1961 85.3 50.5 python3.10 04_nn.py
+12:30:29;   34027    1961 86.0 50.5 python3.10 04_nn.py
+12:30:30;   34027    1961 86.7 50.5 python3.10 04_nn.py
+12:30:31;   34027    1961 87.5 50.6 python3.10 04_nn.py
+12:30:32;   34027    1961 88.1 50.6 python3.10 04_nn.py
+12:30:33;   34027    1961 88.8 50.6 python3.10 04_nn.py
+12:30:34;   34027    1961 88.8 50.6 python3.10 04_nn.py
+12:30:35;   34027    1961 89.5 50.6 python3.10 04_nn.py
+12:30:36;   34027    1961 90.2 50.6 python3.10 04_nn.py
+12:30:38;   34027    1961 90.8 50.6 python3.10 04_nn.py
+12:30:39;   34027    1961 91.4 50.6 python3.10 04_nn.py
+12:30:40;   34027    1961 92.1 50.6 python3.10 04_nn.py
+12:30:41;   34027    1961 92.7 50.6 python3.10 04_nn.py
+12:30:42;   34027    1961 93.3 50.6 python3.10 04_nn.py
+12:30:43;   34027    1961 93.5 50.6 python3.10 04_nn.py
+12:30:44;   34027    1961 93.6 50.6 python3.10 04_nn.py
+12:30:45;   34027    1961 93.4 50.6 python3.10 04_nn.py
+12:30:46;   34027    1961 92.7 50.6 python3.10 04_nn.py
+12:30:47;   34027    1961 92.1 50.6 python3.10 04_nn.py
+12:30:48;   34027    1961 90.8 50.6 python3.10 04_nn.py
+12:30:49;   34027    1961 90.2 50.6 python3.10 04_nn.py
+12:30:50;   34027    1961 89.6 50.6 python3.10 04_nn.py
+12:30:51;   34027    1961 89.0 50.6 python3.10 04_nn.py
+12:30:53;   34027    1961 88.4 50.6 python3.10 04_nn.py
+12:30:54;   34027    1961 87.8 50.6 python3.10 04_nn.py
+12:30:55;   34027    1961 87.2 50.6 python3.10 04_nn.py
+12:30:56;   34027    1961 86.6 50.6 python3.10 04_nn.py
+12:30:57;   34027    1961 86.0 50.6 python3.10 04_nn.py
+12:30:58;   34027    1961 85.5 50.6 python3.10 04_nn.py
+12:30:59;   34027    1961 84.9 50.6 python3.10 04_nn.py
+12:31:00;   34027    1961 84.4 50.6 python3.10 04_nn.py
+12:31:01;   34027    1961 83.8 50.6 python3.10 04_nn.py
+12:31:02;   34027    1961 82.8 50.6 python3.10 04_nn.py
+12:31:03;   34027    1961 82.3 50.6 python3.10 04_nn.py
+12:31:04;   34027    1961 81.8 50.6 python3.10 04_nn.py
+12:31:05;   34027    1961 81.3 50.6 python3.10 04_nn.py
+12:31:07;   34027    1961 80.8 50.6 python3.10 04_nn.py
+12:31:08;   34027    1961 80.3 50.6 python3.10 04_nn.py
+12:31:09;   34027    1961 79.8 50.6 python3.10 04_nn.py
+12:31:10;   34027    1961 79.3 50.6 python3.10 04_nn.py
+12:31:11;   34027    1961 78.8 50.6 python3.10 04_nn.py
+12:31:12;   34027    1961 78.4 50.6 python3.10 04_nn.py
+12:31:13;   34027    1961 77.9 50.6 python3.10 04_nn.py
+12:31:14;   34027    1961 77.5 50.6 python3.10 04_nn.py
+12:31:15;   34027    1961 77.7 11.6 python3.10 04_nn.py
+12:31:16; python3.10 04_nn.py is not running
+12:31:17; python3.10 04_nn.py is not running
+12:31:18; python3.10 04_nn.py is not running
+12:31:19; python3.10 04_nn.py is not running
+12:31:20; python3.10 04_nn.py is not running
+12:31:21; python3.10 04_nn.py is not running
+12:31:23; python3.10 04_nn.py is not running
+12:31:24;   35549    1961 86.0  0.9 python3.10 04_nn.py
+12:31:25;   35549    1961 96.5  1.6 python3.10 04_nn.py
+12:31:26;   35549    1961 99.6  5.3 python3.10 04_nn.py
+12:31:27;   35549    1961  101  5.9 python3.10 04_nn.py
+12:31:28;   35549    1961  102  6.4 python3.10 04_nn.py
+12:31:29;   35549    1961  104  7.3 python3.10 04_nn.py
+12:31:30;   35549    1961  106  7.8 python3.10 04_nn.py
+12:31:31;   35549    1961  106  8.4 python3.10 04_nn.py
+12:31:32;   35549    1961  106  9.0 python3.10 04_nn.py
+12:31:33;   35549    1961  106  9.5 python3.10 04_nn.py
+12:31:34;   35549    1961  101 13.8 python3.10 04_nn.py
+12:31:35;   35549    1961 86.6 15.1 python3.10 04_nn.py
+12:31:36;   35549    1961 83.5 20.4 python3.10 04_nn.py
+12:31:37;   35549    1961 82.9 22.6 python3.10 04_nn.py
+12:31:38;   35549    1961 84.4 29.3 python3.10 04_nn.py
+12:31:40;   35549    1961 85.8 37.2 python3.10 04_nn.py
+12:31:41;   35549    1961 87.0 35.7 python3.10 04_nn.py
+12:31:42;   35549    1961 91.0 36.0 python3.10 04_nn.py
+12:31:43;   35549    1961 95.4 36.1 python3.10 04_nn.py
+12:31:44;   35549    1961 99.3 36.1 python3.10 04_nn.py
+12:31:45;   35549    1961  103 36.1 python3.10 04_nn.py
+12:31:46;   35549    1961  106 36.1 python3.10 04_nn.py
+12:31:47;   35549    1961  109 36.1 python3.10 04_nn.py
+12:31:48;   35549    1961  107 36.1 python3.10 04_nn.py
+12:31:49;   35549    1961  110 36.1 python3.10 04_nn.py
+12:31:50;   35549    1961  112 36.1 python3.10 04_nn.py
+12:31:51;   35549    1961  114 36.1 python3.10 04_nn.py
+12:31:53;   35549    1961  117 36.1 python3.10 04_nn.py
+12:31:54;   35549    1961  119 36.1 python3.10 04_nn.py
+12:31:55;   35549    1961  121 36.1 python3.10 04_nn.py
+12:31:56;   35549    1961  122 36.1 python3.10 04_nn.py
+12:31:57;   35549    1961  124 36.1 python3.10 04_nn.py
+12:31:58;   35549    1961  125 36.1 python3.10 04_nn.py
+12:31:59;   35549    1961  127 36.1 python3.10 04_nn.py
+12:32:00;   35549    1961  128 36.2 python3.10 04_nn.py
+12:32:01;   35549    1961  127 36.2 python3.10 04_nn.py
+12:32:02;   35549    1961  123 36.2 python3.10 04_nn.py
+12:32:03;   35549    1961  122 36.5 python3.10 04_nn.py
+12:32:04;   35549    1961  119 36.5 python3.10 04_nn.py
+12:32:05;   35549    1961  116 36.5 python3.10 04_nn.py
+12:32:07;   35549    1961  114 36.5 python3.10 04_nn.py
+12:32:08;   35549    1961  111 36.5 python3.10 04_nn.py
+12:32:09;   35549    1961  109 36.5 python3.10 04_nn.py
+12:32:10;   35549    1961  107 36.5 python3.10 04_nn.py
+12:32:11;   35549    1961  104 36.5 python3.10 04_nn.py
+12:32:12;   35549    1961  102 36.5 python3.10 04_nn.py
+12:32:13;   35549    1961  100 36.5 python3.10 04_nn.py
+12:32:14;   35549    1961  100 36.9 python3.10 04_nn.py
+12:32:15;   35549    1961  100 46.7 python3.10 04_nn.py
+12:32:16;   35549    1961  100 37.0 python3.10 04_nn.py
+12:32:17;   35549    1961 98.7 43.6 python3.10 04_nn.py
+12:32:18;   35549    1961 98.9 51.7 python3.10 04_nn.py
+12:32:19;   35549    1961 99.0 50.0 python3.10 04_nn.py
+12:32:20;   35549    1961  100 50.2 python3.10 04_nn.py
+12:32:22;   35549    1961  101 50.2 python3.10 04_nn.py
+12:32:23;   35549    1961  102 50.2 python3.10 04_nn.py
+12:32:24;   35549    1961  104 50.2 python3.10 04_nn.py
+12:32:25;   35549    1961  105 50.2 python3.10 04_nn.py
+12:32:26;   35549    1961  106 50.2 python3.10 04_nn.py
+12:32:27;   35549    1961  107 50.2 python3.10 04_nn.py
+12:32:28;   35549    1961  108 50.2 python3.10 04_nn.py
+12:32:29;   35549    1961  109 50.2 python3.10 04_nn.py
+12:32:30;   35549    1961  109 50.2 python3.10 04_nn.py
+12:32:31;   35549    1961  110 50.2 python3.10 04_nn.py
+12:32:32;   35549    1961  111 50.2 python3.10 04_nn.py
+12:32:34;   35549    1961  112 50.2 python3.10 04_nn.py
+12:32:35;   35549    1961  113 50.2 python3.10 04_nn.py
+12:32:36;   35549    1961  113 50.2 python3.10 04_nn.py
+12:32:37;   35549    1961  114 50.2 python3.10 04_nn.py
+12:32:38;   35549    1961  115 50.2 python3.10 04_nn.py
+12:32:39;   35549    1961  116 50.2 python3.10 04_nn.py
+12:32:40;   35549    1961  115 37.3 python3.10 04_nn.py
+12:32:41;   35549    1961  115 37.3 python3.10 04_nn.py
+12:32:42;   35549    1961  114 37.3 python3.10 04_nn.py
+12:32:43;   35549    1961  113 37.3 python3.10 04_nn.py
+12:32:44;   35549    1961  110 37.3 python3.10 04_nn.py
+12:32:45;   35549    1961  109 37.3 python3.10 04_nn.py
+12:32:46;   35549    1961  108 37.3 python3.10 04_nn.py
+12:32:48;   35549    1961  106 37.3 python3.10 04_nn.py
+12:32:49;   35549    1961  105 37.3 python3.10 04_nn.py
+12:32:50;   35549    1961  104 37.3 python3.10 04_nn.py
+12:32:51;   35549    1961  103 37.3 python3.10 04_nn.py
+12:32:52;   35549    1961  102 37.3 python3.10 04_nn.py
+12:32:53;   35549    1961  102 37.4 python3.10 04_nn.py
+12:32:54;   35549    1961  101 43.4 python3.10 04_nn.py
+12:32:55;   35549    1961  101 49.1 python3.10 04_nn.py
+12:32:56;   35549    1961  100 50.4 python3.10 04_nn.py
+12:32:57;   35549    1961  100 39.9 python3.10 04_nn.py
+12:32:58;   35549    1961 99.2 47.0 python3.10 04_nn.py
+12:32:59;   35549    1961 99.3 58.4 python3.10 04_nn.py
+12:33:00;   35549    1961 99.7 50.5 python3.10 04_nn.py
+12:33:02;   35549    1961  100 50.5 python3.10 04_nn.py
+12:33:03;   35549    1961  101 50.5 python3.10 04_nn.py
+12:33:04;   35549    1961  102 50.5 python3.10 04_nn.py
+12:33:05;   35549    1961  102 50.5 python3.10 04_nn.py
+12:33:06;   35549    1961  103 50.5 python3.10 04_nn.py
+12:33:07;   35549    1961  104 50.5 python3.10 04_nn.py
+12:33:08;   35549    1961  104 50.5 python3.10 04_nn.py
+12:33:09;   35549    1961  105 50.5 python3.10 04_nn.py
+12:33:10;   35549    1961  106 50.5 python3.10 04_nn.py
+12:33:11;   35549    1961  105 50.5 python3.10 04_nn.py
+12:33:12;   35549    1961  106 50.6 python3.10 04_nn.py
+12:33:13;   35549    1961  107 50.6 python3.10 04_nn.py
+12:33:15;   35549    1961  107 50.6 python3.10 04_nn.py
+12:33:16;   35549    1961  108 50.6 python3.10 04_nn.py
+12:33:17;   35549    1961  109 50.6 python3.10 04_nn.py
+12:33:18;   35549    1961  109 50.6 python3.10 04_nn.py
+12:33:19;   35549    1961  110 50.6 python3.10 04_nn.py
+12:33:20;   35549    1961  110 50.6 python3.10 04_nn.py
+12:33:21;   35549    1961  110 50.6 python3.10 04_nn.py
+12:33:22;   35549    1961  109 50.6 python3.10 04_nn.py
+12:33:23;   35549    1961  109 50.6 python3.10 04_nn.py
+12:33:24;   35549    1961  108 50.6 python3.10 04_nn.py
+12:33:25;   35549    1961  106 50.6 python3.10 04_nn.py
+12:33:26;   35549    1961  105 50.6 python3.10 04_nn.py
+12:33:27;   35549    1961  104 50.6 python3.10 04_nn.py
+12:33:29;   35549    1961  103 50.6 python3.10 04_nn.py
+12:33:30;   35549    1961  103 50.6 python3.10 04_nn.py
+12:33:31;   35549    1961  102 50.6 python3.10 04_nn.py
+12:33:32;   35549    1961  101 50.6 python3.10 04_nn.py
+12:33:33;   35549    1961  101 11.6 python3.10 04_nn.py
+12:33:34; python3.10 04_nn.py is not running
+12:33:35; python3.10 04_nn.py is not running
+12:33:36; python3.10 04_nn.py is not running
+12:33:37; python3.10 04_nn.py is not running
+12:33:38; python3.10 04_nn.py is not running
+12:33:39; python3.10 04_nn.py is not running
+12:33:40; python3.10 04_nn.py is not running
+12:33:41; python3.10 04_nn.py is not running
+12:33:42; python3.10 04_nn.py is not running
+12:33:43; python3.10 04_nn.py is not running
+12:33:44; python3.10 04_nn.py is not running
+12:33:46; python3.10 04_nn.py is not running
+12:33:47; python3.10 04_nn.py is not running
+12:33:48; python3.10 04_nn.py is not running
+12:33:49; python3.10 04_nn.py is not running
+12:33:50; python3.10 04_nn.py is not running
+12:33:51; python3.10 04_nn.py is not running
+12:33:52; python3.10 04_nn.py is not running
+12:33:53; python3.10 04_nn.py is not running
+12:33:54; python3.10 04_nn.py is not running
+12:33:55; python3.10 04_nn.py is not running
+12:33:56; python3.10 04_nn.py is not running
+12:33:57; python3.10 04_nn.py is not running
+12:33:58; python3.10 04_nn.py is not running
+12:33:59; python3.10 04_nn.py is not running
+12:34:00; python3.10 04_nn.py is not running
+12:34:01; python3.10 04_nn.py is not running
+12:34:02; python3.10 04_nn.py is not running
+12:34:03; python3.10 04_nn.py is not running
+12:34:04; python3.10 04_nn.py is not running
+12:34:05; python3.10 04_nn.py is not running
+12:34:06; python3.10 04_nn.py is not running
+12:34:08; python3.10 04_nn.py is not running
+12:34:09; python3.10 04_nn.py is not running
+12:34:10; python3.10 04_nn.py is not running
+12:34:11; python3.10 04_nn.py is not running
+12:34:12; python3.10 04_nn.py is not running
+12:34:13; python3.10 04_nn.py is not running
+12:34:14; python3.10 04_nn.py is not running
+12:34:15; python3.10 04_nn.py is not running
+12:34:16; python3.10 04_nn.py is not running
+12:34:17; python3.10 04_nn.py is not running
+12:34:18; python3.10 04_nn.py is not running
+12:34:19; python3.10 04_nn.py is not running
+12:34:20; python3.10 04_nn.py is not running
+12:34:21; python3.10 04_nn.py is not running
+12:34:22; python3.10 04_nn.py is not running
+12:34:23; python3.10 04_nn.py is not running
+12:34:24; python3.10 04_nn.py is not running
+12:34:25; python3.10 04_nn.py is not running
+12:34:26; python3.10 04_nn.py is not running
+12:34:27; python3.10 04_nn.py is not running
+12:34:28; python3.10 04_nn.py is not running
+12:34:29; python3.10 04_nn.py is not running
+12:34:31; python3.10 04_nn.py is not running
+12:34:32; python3.10 04_nn.py is not running
+12:34:33; python3.10 04_nn.py is not running
+12:34:34; python3.10 04_nn.py is not running
+12:34:35; python3.10 04_nn.py is not running
+12:34:36; python3.10 04_nn.py is not running
+12:34:37; python3.10 04_nn.py is not running
+12:34:38; python3.10 04_nn.py is not running
+12:34:39; python3.10 04_nn.py is not running
+12:34:40; python3.10 04_nn.py is not running
+12:34:41; python3.10 04_nn.py is not running
+12:34:42; python3.10 04_nn.py is not running
+12:34:43; python3.10 04_nn.py is not running
+12:34:44; python3.10 04_nn.py is not running
+12:34:45; python3.10 04_nn.py is not running
+12:34:46; python3.10 04_nn.py is not running
+12:34:47; python3.10 04_nn.py is not running
+12:34:48; python3.10 04_nn.py is not running
+12:34:49; python3.10 04_nn.py is not running
+12:34:50; python3.10 04_nn.py is not running
+12:34:51; python3.10 04_nn.py is not running
+12:34:52; python3.10 04_nn.py is not running
+12:34:54; python3.10 04_nn.py is not running
+12:34:55; python3.10 04_nn.py is not running
+12:34:56;   37273    1961 76.0  0.8 python3.10 04_nn.py
+12:34:57;   37273    1961 77.5  1.4 python3.10 04_nn.py
+12:34:58;   37273    1961 81.3  3.8 python3.10 04_nn.py
+12:34:59;   37273    1961 81.5  5.6 python3.10 04_nn.py
+12:35:00;   37273    1961 82.0  6.0 python3.10 04_nn.py
+12:35:01;   37273    1961 81.6  6.4 python3.10 04_nn.py
+12:35:02;   37273    1961 81.2  6.8 python3.10 04_nn.py
+12:35:03;   37273    1961 82.3  7.4 python3.10 04_nn.py
+12:35:04;   37273    1961 83.7  7.8 python3.10 04_nn.py
+12:35:05;   37273    1961 82.8  8.2 python3.10 04_nn.py
+12:35:06;   37273    1961 75.5  8.5 python3.10 04_nn.py
+12:35:07;   37273    1961 76.1  9.0 python3.10 04_nn.py
+12:35:08;   37273    1961 78.6  9.4 python3.10 04_nn.py
+12:35:09;   37273    1961 79.3 16.5 python3.10 04_nn.py
+12:35:11;   37273    1961 75.3 17.8 python3.10 04_nn.py
+12:35:12;   37273    1961 74.7 22.7 python3.10 04_nn.py
+12:35:13;   37273    1961 76.6 27.4 python3.10 04_nn.py
+12:35:14;   37273    1961 78.2 34.6 python3.10 04_nn.py
+12:35:15;   37273    1961 79.7 48.7 python3.10 04_nn.py
+12:35:16;   37273    1961 82.7 36.2 python3.10 04_nn.py
+12:35:17;   37273    1961 87.1 36.2 python3.10 04_nn.py
+12:35:18;   37273    1961 91.0 36.2 python3.10 04_nn.py
+12:35:19;   37273    1961 94.6 36.3 python3.10 04_nn.py
+12:35:20;   37273    1961 94.0 36.3 python3.10 04_nn.py
+12:35:21;   37273    1961 97.0 36.3 python3.10 04_nn.py
+12:35:22;   37273    1961 99.7 36.3 python3.10 04_nn.py
+12:35:24;   37273    1961  102 36.3 python3.10 04_nn.py
+12:35:25;   37273    1961  105 36.3 python3.10 04_nn.py
+12:35:26;   37273    1961  107 36.3 python3.10 04_nn.py
+12:35:27;   37273    1961  109 36.3 python3.10 04_nn.py
+12:35:28;   37273    1961  111 36.3 python3.10 04_nn.py
+12:35:29;   37273    1961  113 36.3 python3.10 04_nn.py
+12:35:30;   37273    1961  115 36.3 python3.10 04_nn.py
+12:35:31;   37273    1961  117 36.3 python3.10 04_nn.py
+12:35:32;   37273    1961  118 36.3 python3.10 04_nn.py
+12:35:33;   37273    1961  117 36.3 python3.10 04_nn.py
+12:35:34;   37273    1961  118 36.3 python3.10 04_nn.py
+12:35:35;   37273    1961  118 36.3 python3.10 04_nn.py
+12:35:37;   37273    1961  118 36.4 python3.10 04_nn.py
+12:35:38;   37273    1961  118 36.7 python3.10 04_nn.py
+12:35:39;   37273    1961  115 36.7 python3.10 04_nn.py
+12:35:40;   37273    1961  112 36.7 python3.10 04_nn.py
+12:35:41;   37273    1961  110 36.7 python3.10 04_nn.py
+12:35:42;   37273    1961  108 36.7 python3.10 04_nn.py
+12:35:43;   37273    1961  105 36.7 python3.10 04_nn.py
+12:35:44;   37273    1961  103 36.7 python3.10 04_nn.py
+12:35:45;   37273    1961  101 36.7 python3.10 04_nn.py
+12:35:46;   37273    1961 99.6 36.7 python3.10 04_nn.py
+12:35:47;   37273    1961 95.9 36.7 python3.10 04_nn.py
+12:35:48;   37273    1961 95.5 36.8 python3.10 04_nn.py
+12:35:49;   37273    1961 95.7 43.9 python3.10 04_nn.py
+12:35:50;   37273    1961 95.7 37.1 python3.10 04_nn.py
+12:35:52;   37273    1961 95.9 43.0 python3.10 04_nn.py
+12:35:53;   37273    1961 96.1 50.1 python3.10 04_nn.py
+12:35:54;   37273    1961 96.3 50.1 python3.10 04_nn.py
+12:35:55;   37273    1961 97.5 50.3 python3.10 04_nn.py
+12:35:56;   37273    1961 98.8 50.3 python3.10 04_nn.py
+12:35:57;   37273    1961  100 50.3 python3.10 04_nn.py
+12:35:58;   37273    1961  101 50.3 python3.10 04_nn.py
+12:35:59;   37273    1961  102 50.3 python3.10 04_nn.py
+12:36:00;   37273    1961  103 50.3 python3.10 04_nn.py
+12:36:01;   37273    1961  103 50.4 python3.10 04_nn.py
+12:36:02;   37273    1961  104 50.4 python3.10 04_nn.py
+12:36:03;   37273    1961  105 50.4 python3.10 04_nn.py
+12:36:05;   37273    1961  106 50.4 python3.10 04_nn.py
+12:36:06;   37273    1961  107 50.4 python3.10 04_nn.py
+12:36:07;   37273    1961  108 50.4 python3.10 04_nn.py
+12:36:08;   37273    1961  109 50.4 python3.10 04_nn.py
+12:36:09;   37273    1961  110 50.4 python3.10 04_nn.py
+12:36:10;   37273    1961  110 50.4 python3.10 04_nn.py
+12:36:11;   37273    1961  111 50.4 python3.10 04_nn.py
+12:36:12;   37273    1961  112 50.4 python3.10 04_nn.py
+12:36:13;   37273    1961  113 50.4 python3.10 04_nn.py
+12:36:14;   37273    1961  111 37.4 python3.10 04_nn.py
+12:36:15;   37273    1961  111 37.4 python3.10 04_nn.py
+12:36:16;   37273    1961  111 37.4 python3.10 04_nn.py
+12:36:17;   37273    1961  109 37.4 python3.10 04_nn.py
+12:36:19;   37273    1961  108 37.4 python3.10 04_nn.py
+12:36:20;   37273    1961  107 37.4 python3.10 04_nn.py
+12:36:21;   37273    1961  106 37.4 python3.10 04_nn.py
+12:36:22;   37273    1961  104 37.4 python3.10 04_nn.py
+12:36:23;   37273    1961  103 37.4 python3.10 04_nn.py
+12:36:24;   37273    1961  102 37.4 python3.10 04_nn.py
+12:36:25;   37273    1961  101 37.4 python3.10 04_nn.py
+12:36:26;   37273    1961  100 37.4 python3.10 04_nn.py
+12:36:27;   37273    1961  100 37.5 python3.10 04_nn.py
+12:36:28;   37273    1961 99.7 38.9 python3.10 04_nn.py
+12:36:29;   37273    1961 98.3 46.4 python3.10 04_nn.py
+12:36:30;   37273    1961 97.4 47.6 python3.10 04_nn.py
+12:36:31;   37273    1961 97.5 38.7 python3.10 04_nn.py
+12:36:32;   37273    1961 97.6 45.8 python3.10 04_nn.py
+12:36:34;   37273    1961 97.7 55.8 python3.10 04_nn.py
+12:36:35;   37273    1961 97.9 50.4 python3.10 04_nn.py
+12:36:36;   37273    1961 98.7 50.5 python3.10 04_nn.py
+12:36:37;   37273    1961 99.5 50.5 python3.10 04_nn.py
+12:36:38;   37273    1961  100 50.5 python3.10 04_nn.py
+12:36:39;   37273    1961  101 50.5 python3.10 04_nn.py
+12:36:40;   37273    1961  101 50.5 python3.10 04_nn.py
+12:36:41;   37273    1961  102 50.5 python3.10 04_nn.py
+12:36:42;   37273    1961  103 50.5 python3.10 04_nn.py
+12:36:43;   37273    1961  102 50.5 python3.10 04_nn.py
+12:36:44;   37273    1961  103 50.5 python3.10 04_nn.py
+12:36:45;   37273    1961  104 50.5 python3.10 04_nn.py
+12:36:47;   37273    1961  104 50.5 python3.10 04_nn.py
+12:36:48;   37273    1961  105 50.5 python3.10 04_nn.py
+12:36:49;   37273    1961  106 50.5 python3.10 04_nn.py
+12:36:50;   37273    1961  106 50.5 python3.10 04_nn.py
+12:36:51;   37273    1961  107 50.5 python3.10 04_nn.py
+12:36:52;   37273    1961  108 50.5 python3.10 04_nn.py
+12:36:53;   37273    1961  108 50.5 python3.10 04_nn.py
+12:36:54;   37273    1961  108 50.5 python3.10 04_nn.py
+12:36:55;   37273    1961  108 50.5 python3.10 04_nn.py
+12:36:56;   37273    1961  107 50.6 python3.10 04_nn.py
+12:36:57;   37273    1961  106 50.6 python3.10 04_nn.py
+12:36:58;   37273    1961  105 50.6 python3.10 04_nn.py
+12:36:59;   37273    1961  105 50.6 python3.10 04_nn.py
+12:37:01;   37273    1961  104 50.6 python3.10 04_nn.py
+12:37:02;   37273    1961  103 50.6 python3.10 04_nn.py
+12:37:03;   37273    1961  102 50.6 python3.10 04_nn.py
+12:37:04;   37273    1961  101 50.6 python3.10 04_nn.py
+12:37:05;   37273    1961  101 50.6 python3.10 04_nn.py
+12:37:06;   37273    1961  100 50.6 python3.10 04_nn.py
+12:37:07;   37273    1961  100 11.6 python3.10 04_nn.py
+12:37:08; python3.10 04_nn.py is not running
+12:37:09; python3.10 04_nn.py is not running
+12:37:10; python3.10 04_nn.py is not running
+12:37:11; python3.10 04_nn.py is not running
+12:37:12; python3.10 04_nn.py is not running
+12:37:13; python3.10 04_nn.py is not running
+12:37:15; python3.10 04_nn.py is not running
+12:37:16; python3.10 04_nn.py is not running
+12:37:17; python3.10 04_nn.py is not running
+12:37:18; python3.10 04_nn.py is not running
+12:37:19; python3.10 04_nn.py is not running
+12:37:20; python3.10 04_nn.py is not running
+12:37:21; python3.10 04_nn.py is not running
+12:37:22; python3.10 04_nn.py is not running
+12:37:23; python3.10 04_nn.py is not running
+12:37:24; python3.10 04_nn.py is not running
+12:37:25; python3.10 04_nn.py is not running
+12:37:26; python3.10 04_nn.py is not running
+12:37:27; python3.10 04_nn.py is not running
+12:37:28; python3.10 04_nn.py is not running
+12:37:29; python3.10 04_nn.py is not running
+12:37:30; python3.10 04_nn.py is not running
+12:37:31; python3.10 04_nn.py is not running
+12:37:32; python3.10 04_nn.py is not running
+12:37:33; python3.10 04_nn.py is not running
+12:37:34; python3.10 04_nn.py is not running
+12:37:35; python3.10 04_nn.py is not running
+12:37:36; python3.10 04_nn.py is not running
+12:37:38; python3.10 04_nn.py is not running
+12:37:39; python3.10 04_nn.py is not running
+12:37:40; python3.10 04_nn.py is not running
+12:37:41; python3.10 04_nn.py is not running
+12:37:42; python3.10 04_nn.py is not running
+12:37:43; python3.10 04_nn.py is not running
+12:37:44; python3.10 04_nn.py is not running
+12:37:45; python3.10 04_nn.py is not running
+12:37:46; python3.10 04_nn.py is not running
+12:37:47; python3.10 04_nn.py is not running
+12:37:48; python3.10 04_nn.py is not running
+12:37:49; python3.10 04_nn.py is not running
+12:37:50; python3.10 04_nn.py is not running
+12:37:51; python3.10 04_nn.py is not running
+12:37:52; python3.10 04_nn.py is not running
+12:37:53; python3.10 04_nn.py is not running
+12:37:54; python3.10 04_nn.py is not running
+12:37:55; python3.10 04_nn.py is not running
+12:37:56; python3.10 04_nn.py is not running
+12:37:57; python3.10 04_nn.py is not running
+12:37:58; python3.10 04_nn.py is not running
+12:38:00; python3.10 04_nn.py is not running
+12:38:01; python3.10 04_nn.py is not running
+12:38:02; python3.10 04_nn.py is not running
+12:38:03; python3.10 04_nn.py is not running
+12:38:04; python3.10 04_nn.py is not running
+12:38:05; python3.10 04_nn.py is not running
+12:38:06; python3.10 04_nn.py is not running
+12:38:07; python3.10 04_nn.py is not running
+12:38:08; python3.10 04_nn.py is not running
+12:38:09; python3.10 04_nn.py is not running
+12:38:10; python3.10 04_nn.py is not running
+12:38:11; python3.10 04_nn.py is not running
+12:38:12; python3.10 04_nn.py is not running
+12:38:13; python3.10 04_nn.py is not running
+12:38:14; python3.10 04_nn.py is not running
+12:38:15; python3.10 04_nn.py is not running
+12:38:16; python3.10 04_nn.py is not running
+12:38:17; python3.10 04_nn.py is not running
+12:38:18; python3.10 04_nn.py is not running
+12:38:19; python3.10 04_nn.py is not running
+12:38:20; python3.10 04_nn.py is not running
+12:38:21; python3.10 04_nn.py is not running
+12:38:23; python3.10 04_nn.py is not running
+12:38:24; python3.10 04_nn.py is not running
+12:38:25; python3.10 04_nn.py is not running
+12:38:26; python3.10 04_nn.py is not running
+12:38:27; python3.10 04_nn.py is not running
+12:38:28; python3.10 04_nn.py is not running
+12:38:29; python3.10 04_nn.py is not running
+12:38:30; python3.10 04_nn.py is not running
+12:38:31; python3.10 04_nn.py is not running
+12:38:32; python3.10 04_nn.py is not running
+12:38:33; python3.10 04_nn.py is not running
+12:38:34; python3.10 04_nn.py is not running
+12:38:35; python3.10 04_nn.py is not running
+12:38:36; python3.10 04_nn.py is not running
+12:38:37; python3.10 04_nn.py is not running
+12:38:38; python3.10 04_nn.py is not running
+12:38:39; python3.10 04_nn.py is not running
+12:38:40; python3.10 04_nn.py is not running
+12:38:41; python3.10 04_nn.py is not running
+12:38:42; python3.10 04_nn.py is not running
+12:38:43; python3.10 04_nn.py is not running
+12:38:44; python3.10 04_nn.py is not running
+12:38:45; python3.10 04_nn.py is not running
+12:38:46; python3.10 04_nn.py is not running
+12:38:47; python3.10 04_nn.py is not running
+12:38:49; python3.10 04_nn.py is not running
+12:38:50; python3.10 04_nn.py is not running
+12:38:51; python3.10 04_nn.py is not running
+12:38:52; python3.10 04_nn.py is not running
+12:38:53; python3.10 04_nn.py is not running
+12:38:54; python3.10 04_nn.py is not running
+12:38:55; python3.10 04_nn.py is not running
+12:38:56; python3.10 04_nn.py is not running
+12:38:57; python3.10 04_nn.py is not running
+12:38:58; python3.10 04_nn.py is not running
+12:38:59; python3.10 04_nn.py is not running
+12:39:00; python3.10 04_nn.py is not running
+12:39:01; python3.10 04_nn.py is not running
+12:39:02; python3.10 04_nn.py is not running
+12:39:03; python3.10 04_nn.py is not running
+12:39:04; python3.10 04_nn.py is not running
+12:39:05; python3.10 04_nn.py is not running
+12:39:06; python3.10 04_nn.py is not running
+12:39:07; python3.10 04_nn.py is not running
+12:39:08; python3.10 04_nn.py is not running
+12:39:09; python3.10 04_nn.py is not running
+12:39:10; python3.10 04_nn.py is not running
+12:39:12; python3.10 04_nn.py is not running
+12:39:13; python3.10 04_nn.py is not running
+12:39:14; python3.10 04_nn.py is not running
+12:39:15; python3.10 04_nn.py is not running
+12:39:16; python3.10 04_nn.py is not running
+12:39:17; python3.10 04_nn.py is not running
+12:39:18; python3.10 04_nn.py is not running
+12:39:19; python3.10 04_nn.py is not running
+12:39:20; python3.10 04_nn.py is not running
+12:39:21; python3.10 04_nn.py is not running
+12:39:22; python3.10 04_nn.py is not running
+12:39:23; python3.10 04_nn.py is not running
+12:39:24; python3.10 04_nn.py is not running
+12:39:25; python3.10 04_nn.py is not running
+12:39:26; python3.10 04_nn.py is not running
+12:39:27; python3.10 04_nn.py is not running
+12:39:28; python3.10 04_nn.py is not running
+12:39:29; python3.10 04_nn.py is not running
+12:39:30; python3.10 04_nn.py is not running
+12:39:31; python3.10 04_nn.py is not running
+12:39:32; python3.10 04_nn.py is not running
+12:39:34; python3.10 04_nn.py is not running
+12:39:35; python3.10 04_nn.py is not running
+12:39:36; python3.10 04_nn.py is not running
+12:39:37; python3.10 04_nn.py is not running
+12:39:38; python3.10 04_nn.py is not running
+12:39:39; python3.10 04_nn.py is not running
+12:39:40; python3.10 04_nn.py is not running
+12:39:41; python3.10 04_nn.py is not running
+12:39:42; python3.10 04_nn.py is not running
+12:39:43; python3.10 04_nn.py is not running
