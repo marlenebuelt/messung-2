@@ -1,8 +1,8 @@
 import pandas as pd
 import statistics
-import numpy as np
+from scipy.stats import mannwhitneyu
 
-powerjoular_dt = pd.read_csv('1_dt_results/powerjoular_dt.csv', header=None)
+powerjoular_dt = pd.read_csv('1_dt_results/powerjoular_dt.csv',header=None)
 powerjoular_dt.columns = ['time', 'cpu_avg','power_all', 'power_cpu', 'power_gpu']
 
 processes_dt = pd.read_csv('1_dt_results/processes_dt.csv', sep=';', header=None)
@@ -28,6 +28,8 @@ for index, row in df_dt.iterrows():
         df_dt.loc[start_index:index, 'startstop'] = fill_value
         start_index = None
 
+df_dt = df_dt.dropna()
+
 #average runtime
 list_runtime = []
 for index, row in runtime_logs.iloc[::2].iterrows():
@@ -41,17 +43,22 @@ runtime_avg = statistics.mean(list_runtime)
 print('avg runtime: '+str(runtime_avg))
 
 #average cpu and memory
-avg_cpu = processes_dt.loc[:, '%CPU'].mean()
-avg_mem = processes_dt.loc[:, '%mem'].mean()
+avg_cpu = df_dt.loc[:, '%CPU'].mean()
+avg_mem = df_dt.loc[:, '%mem'].mean()
 
 print('avg_cpu: ' + str(avg_cpu))
 print('avg_mem: ' + str(avg_mem))
 
 #average power
-avg_cpu_percentage = powerjoular_dt.loc[:, 'cpu_avg'].mean()
-avg_power_all = powerjoular_dt.loc[:, 'power_all'].mean()
-avg_power_cpu = powerjoular_dt.loc[:, 'power_cpu'].mean()
+avg_cpu_percentage = df_dt.loc[:, 'cpu_avg'].mean()
+avg_power_all = df_dt.loc[:, 'power_all'].mean()
+avg_power_cpu = df_dt.loc[:, 'power_cpu'].mean()
 
 print('avg cpu %: ' + str(avg_cpu_percentage))
 print('avg power all: ' + str(avg_power_all))
 print('avg power cpu: ' + str(avg_power_cpu))
+#print(df_dt)
+df_dt.to_csv('1_dt_results/df_dt.csv')
+def getDf_dt():
+    global df_dt
+    return df_dt
