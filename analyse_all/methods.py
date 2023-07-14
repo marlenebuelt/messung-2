@@ -25,7 +25,7 @@ def avgRuntime(runtime_logs):
         runtime = runtime.seconds
         list_runtime.append(runtime)
     runtime_avg = statistics.mean(list_runtime)
-    print('avg runtime: '+str(runtime_avg))
+    return runtime_avg
 
 def avgMemory(df):
     avg_mem = df.loc[:, '%mem'].mean()
@@ -38,3 +38,12 @@ def avgTotalPower(df):
 def avgCPU(df):
     avg_cpu_percentage = df.loc[:, 'CPU Utilization'].mean()
     print('avg cpu %: ' + str(avg_cpu_percentage))
+
+#method: credit to https://stackoverflow.com/questions/30926840/how-to-check-change-between-two-values-in-percent#:~:text=If%20you%20want%20the%20percentage,%2Fprevious)*100%20%2D%20100%20.
+def get_change(model_value, baseline_value):
+    if model_value == baseline_value:
+        return 0
+    try:
+        return (abs(model_value - baseline_value) / baseline_value) * 100.0
+    except ZeroDivisionError:
+        return float('inf')

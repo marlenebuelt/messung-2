@@ -21,14 +21,16 @@ df_nn = pd.merge(df_nn, runtime_logs, how='left', on='time')
 methods.determineRuntimePhases(df_nn)
 
 df_nn = df_nn.dropna()
-methods.avgRuntime(runtime_logs)
+runtime = methods.avgRuntime(runtime_logs)
 
 methods.avgMemory(df_nn)
 methods.avgCPU(df_nn)
 methods.avgTotalPower(df_nn)
 
-print(df_nn)
-
 def getdf_nn():
     global df_nn
     return df_nn
+
+def runtimenn():
+    global runtime
+    return runtime

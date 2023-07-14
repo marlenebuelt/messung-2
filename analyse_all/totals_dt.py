@@ -18,17 +18,19 @@ df_dt = pd.merge(powerjoular_dt, processes_dt, how='left', on='time')
 df_dt = pd.merge(df_dt, runtime_logs, how='left', on='time')
 
 #iterate over values to define runtimes
-#iterate over values to define runtimes
 methods.determineRuntimePhases(df_dt)
 
 df_dt = df_dt.dropna()
-methods.avgRuntime(runtime_logs)
+runtime = methods.avgRuntime(runtime_logs)
 
 methods.avgMemory(df_dt)
 methods.avgCPU(df_dt)
 methods.avgTotalPower(df_dt)
 
-print(df_dt)
 def getdf_dt():
     global df_dt
     return df_dt
+
+def runtimedt():
+    global runtime
+    return runtime
