@@ -30,10 +30,4 @@ methods.avgMemory(df_lr)
 methods.avgCPU(df_lr)
 methods.avgTotalPower(df_lr)
 
-def getdf_lr():
-    global df_lr
-    return df_lr
-
-def runtimelr():
-    global runtime_lr
-    return runtime_lr
+df_lr.to_csv('2_logreg/df_lr')

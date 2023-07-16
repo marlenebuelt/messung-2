@@ -43,6 +43,4 @@ methods.avgMemory(df_svm)
 methods.avgCPU(df_svm)
 methods.avgTotalPower(df_svm)
 
-def runtimesvm():
-    global runtime_avg
-    return runtime_avg
+df_svm.to_csv('3_svm/df_svm')

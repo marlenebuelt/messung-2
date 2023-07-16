@@ -14,6 +14,3 @@ df_desc = pd.DataFrame([[cpu.min()*100, cpu.max()*100, cpu.mean()*100, cpu.media
 print(df_desc)
 df_desc.to_csv('04_nn_results/df_desc_nn')
 
-def descdf():
-    global df_desc
-    return df_desc

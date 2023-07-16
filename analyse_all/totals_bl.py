@@ -12,8 +12,13 @@ df_bl = pd.merge(powerjoular_bl, processes_bl, how='left', on='time')
 df_bl = df_bl.dropna()
 print(df_bl)
 
-df_dt = df_bl.dropna()
+df_bl = df_bl.dropna()
 
 methods.avgMemory(df_bl)
 methods.avgCPU(df_bl)
 methods.avgTotalPower(df_bl)
+
+df_bl.to_csv('bl_messung/df_bl')
+def df():
+    global df_bl
+    return df_bl

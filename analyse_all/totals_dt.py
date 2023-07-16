@@ -27,10 +27,4 @@ methods.avgMemory(df_dt)
 methods.avgCPU(df_dt)
 methods.avgTotalPower(df_dt)
 
-def getdf_dt():
-    global df_dt
-    return df_dt
-
-def runtimedt():
-    global runtime
-    return runtime
+df_dt.to_csv('1_dt_results/df_dt')

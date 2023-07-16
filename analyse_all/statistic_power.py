@@ -5,7 +5,7 @@ import totals_lr
 import totals_svm
 import totals_nn
 import scipy.stats as stats
-from functools import partial
+from cliffs_delta import cliffs_delta
 
 cpu_bl = totals_bl.df_bl['CPU Utilization']
 mem_bl = totals_bl.df_bl['%mem']
@@ -27,9 +27,32 @@ cpu_nn = totals_nn.df_nn['CPU Utilization']
 mem_nn = totals_nn.df_nn['%mem']
 power_total_nn = totals_nn.df_nn['Total Power']
 
+groups_cpu = [cpu_bl, cpu_dt,cpu_lr, cpu_svm, cpu_nn]
+
+#baseline
+groups_cpu = [cpu_dt,cpu_lr, cpu_svm, cpu_nn]
+for i in groups_cpu:
+    print(stats.mannwhitneyu(cpu_bl, i).pvalue)
+    print(cliffs_delta(cpu_bl, i)[0])
+
+#dt
+groups_cpu = [cpu_dt,cpu_lr, cpu_svm, cpu_nn]
+for i in groups_cpu:
+    print(stats.mannwhitneyu(cpu_bl, i).pvalue)
+    print(cliffs_delta(cpu_bl, i)[0])
+#logreg
+groups_cpu = [cpu_dt,cpu_lr, cpu_svm, cpu_nn]
+for i in groups_cpu:
+    print(stats.mannwhitneyu(cpu_bl, i).pvalue)
+    print(cliffs_delta(cpu_bl, i)[0])
+#svm
+groups_cpu = [cpu_dt,cpu_lr, cpu_svm, cpu_nn]
+for i in groups_cpu:
+    print(stats.mannwhitneyu(cpu_bl, i).pvalue)
+    print(cliffs_delta(cpu_bl, i)[0])
 
 
-df_significance = pd.DataFrame([[stats.mannwhitneyu(cpu_bl, cpu_dt).pvalue, 
+'''df_significance_cpu = pd.DataFrame([[stats.mannwhitneyu(cpu_bl, cpu_dt).pvalue, 
                         stats.mannwhitneyu(cpu_bl, cpu_lr).pvalue,
                         stats.mannwhitneyu(cpu_bl, cpu_svm).pvalue,
                         stats.mannwhitneyu(cpu_bl, cpu_nn).pvalue], 
@@ -48,4 +71,4 @@ df_significance = pd.DataFrame([[stats.mannwhitneyu(cpu_bl, cpu_dt).pvalue,
 pd.set_option('float_format', lambda x: '%.3f' % x)
 
 print(df_significance)
-df_significance.to_csv('df_significance.csv', float_format='%.3f')
+df_significance.to_csv('df_significance.csv', float_format='%.2f')'''

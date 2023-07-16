@@ -26,26 +26,26 @@ cpu_nn = totals_nn.df_nn['CPU Utilization'].mean()
 mem_nn = totals_nn.df_nn['%mem'].mean()
 power_total_nn = totals_nn.df_nn['Total Power'].mean()
 
-df_mean = pd.DataFrame([[cpu_bl*100, 
-                        cpu_dt*100, methods.get_change(cpu_dt, cpu_bl),
-                        cpu_lr*100, methods.get_change(cpu_lr, cpu_bl),
-                        cpu_svm*100, methods.get_change(cpu_svm, cpu_bl),
-                        cpu_nn*100, methods.get_change(cpu_nn, cpu_bl)], 
-                        [mem_bl, 
-                        mem_dt, methods.get_change(mem_dt, mem_bl),
-                        mem_lr, methods.get_change(mem_lr, mem_bl),
-                        mem_svm, methods.get_change(mem_svm, mem_bl),
-                        mem_nn, methods.get_change(mem_nn, mem_bl)], 
-                        [power_total_bl, 
-                        power_total_dt, methods.get_change(power_total_dt, power_total_bl),
-                        power_total_lr, methods.get_change(power_total_lr, power_total_bl),
-                        power_total_svm, methods.get_change(power_total_svm, power_total_bl),
-                        power_total_nn, methods.get_change(power_total_nn, power_total_bl)]],
-                    columns=['BL', 'DT', 'Delta DT %', 'Log. Reg.', 'Delta LogReg %','SVM', 'Delta SVM %', 
-                                'MLP', 'Delta MLP % '], 
+df_mean_abs = pd.DataFrame([[cpu_bl*100, cpu_dt*100, cpu_lr*100, cpu_svm*100, cpu_nn*100], 
+                        [mem_bl, mem_dt,mem_lr, mem_svm, mem_nn], 
+                        [power_total_bl, power_total_dt, power_total_lr,power_total_svm,power_total_nn]],
+                    columns=['BL', 'DT', 'Log. Reg.','SVM', 'MLP'], 
                     index=['CPU Utilization [%]','Memory Utilization[%]','Total Power [W]'])
 
+df_mean_rel = pd.DataFrame([[methods.get_change(cpu_dt, cpu_bl),
+                        methods.get_change(cpu_lr, cpu_bl),
+                        methods.get_change(cpu_svm, cpu_bl),
+                        methods.get_change(cpu_nn, cpu_bl)], 
+                        [methods.get_change(mem_dt, mem_bl),
+                        methods.get_change(mem_lr, mem_bl),
+                        methods.get_change(mem_svm, mem_bl),
+                        methods.get_change(mem_nn, mem_bl)], 
+                        [methods.get_change(power_total_dt, power_total_bl),
+                        methods.get_change(power_total_lr, power_total_bl),
+                        methods.get_change(power_total_svm, power_total_bl),
+                        methods.get_change(power_total_nn, power_total_bl)]],
+                    columns=['Delta DT %', 'Delta LogReg %', 'Delta SVM %', 'Delta MLP % '], 
+                    index=['CPU Utilization [%]','Memory Utilization[%]','Total Power [W]'])
 
-print(df_mean)
-df_mean.to_csv('mean_to_bl.csv')
-print(df_mean.to_latex)
+df_mean_abs.to_csv('mean_to_bl_abs.csv', float_format='%.2f')
+df_mean_rel.to_csv('mean_to_bl_rel.csv', float_format='%.2f')
