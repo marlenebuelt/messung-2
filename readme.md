@@ -7,6 +7,9 @@ powerjoular_[model].csv - Power utilization log
 processes_[model].log - Log of memory utilization 
 [model].csv - runtime logs 
 
+## /
+[model].py - execution of the model / starts a prediction
+
 ## /analyse_all
 totals_[model].py - merge of the collected files and data, cleaning of data of the respective models 
 desc_[model].py - descriptive variables of all models
