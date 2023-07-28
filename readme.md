@@ -16,3 +16,4 @@ desc_[model].py - descriptive variables of all models
 mean_to_bl.py - Relative comparison to baseline data
 methods.py - service class to store all methods used in separate analysis files
 mwu.ipynb - Significance tests and effect size test (Mann-Whitney-U and Cliff's delta)
+shapiro_wilk.ipynb - Shapiro-Wilk-Test for normality
