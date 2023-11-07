@@ -26,6 +26,7 @@ cpu_nn = totals_nn.df_nn['CPU Utilization'].mean()
 mem_nn = totals_nn.df_nn['%mem'].mean()
 power_total_nn = totals_nn.df_nn['Total Power'].mean()
 
+
 df_mean_abs = pd.DataFrame([[cpu_bl*100, cpu_dt*100, cpu_lr*100, cpu_svm*100, cpu_nn*100], 
                         [mem_bl, mem_dt,mem_lr, mem_svm, mem_nn], 
                         [power_total_bl, power_total_dt, power_total_lr,power_total_svm,power_total_nn]],
