@@ -11,7 +11,7 @@ logging.basicConfig(filename="/home/marlene/messungen_64bit/04_nn_results/nn.log
 logger=logging.getLogger()
 
 
-for i in range (3):
+for i in range (30):
     logger.info("Start") 
     nn_model = load_model('Modelle/04_nn/nn_3months')
     X_test_nn = pickle.load(open('Modelle/04_nn/X_test_3months.pkl', 'rb'))
