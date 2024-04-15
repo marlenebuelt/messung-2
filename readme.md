@@ -2,13 +2,13 @@
 This is a repository of all data I collected for the software-based measurements for my bachelor's thesis as well as analysis files used for interpretation and discussion. 
 For these measurements, the [PowerJoular](https://joular.github.io/powerjoular/) tool is used.
 
-All measurement files are found in the corresponding folders:
-powerjoular_[model].csv - Power utilization log 
-processes_[model].log - Log of memory utilization 
+All measurement files are found in the corresponding folders:\
+powerjoular_[model].csv - Power utilization log\
+processes_[model].log - Log of memory utilization\
 [model].csv - runtime logs 
 
 ## /
-[model].py - execution of the model / starts a prediction
+[model].py - execution of the model / prediction script
 
 ## /analyse_all
 totals_[model].py - merge of the collected files and data, cleaning of data of the respective models 
